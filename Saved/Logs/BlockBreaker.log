@@ -1,0 +1,1685 @@
+﻿Log file open, 09/12/18 09:33:56
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: BlockBreaker
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.198018
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -4:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.203s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.12-13.33.56:621][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.12-13.33.56:621][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.12-13.33.56:638][  0]LogHAL: Display: Platform has ~ 16 GB [17053216768 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.12-13.33.56:638][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.12-13.33.56:638][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.12-13.33.56:639][  0]LogInit: Computer: SF2636
+[2018.09.12-13.33.56:639][  0]LogInit: User: sgiron
+[2018.09.12-13.33.56:639][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.09.12-13.33.56:639][  0]LogInit: High frequency timer resolution =3.117185 MHz
+[2018.09.12-13.33.56:640][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.09.12-13.33.56:640][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.12-13.33.56:640][  0]LogMemory: Process Physical Memory: 100.09 MB used, 100.09 MB peak
+[2018.09.12-13.33.56:640][  0]LogMemory: Process Virtual Memory: 84.42 MB used, 84.42 MB peak
+[2018.09.12-13.33.56:640][  0]LogMemory: Physical Memory: 7085.38 MB used,  9177.83 MB free, 16263.21 MB total
+[2018.09.12-13.33.56:640][  0]LogMemory: Virtual Memory: 4604.98 MB used,  9177.83 MB free, 134217728.00 MB total
+[2018.09.12-13.33.56:669][  0]LogInit: Using OS detected language (en-US).
+[2018.09.12-13.33.56:669][  0]LogInit: Using OS detected locale (en-US).
+[2018.09.12-13.33.56:670][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.09.12-13.33.57:138][  0]LogStreaming: Display: Took  0.470s to InitEngineTextLocalization.
+[2018.09.12-13.33.57:139][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.12-13.33.57:177][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.12-13.33.57:177][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.12-13.33.57:414][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.12-13.33.57:414][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.12-13.33.57:421][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.09.12-13.33.57:421][  0]LogD3D11RHI:       128/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x8086
+[2018.09.12-13.33.57:423][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.12-13.33.57:423][  0]LogD3D11RHI:       0/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.12-13.33.57:423][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.12-13.33.57:431][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.12-13.33.57:431][  0]LogD3D11RHI:     GPU DeviceId: 0x1912 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.12-13.33.57:431][  0]LogWindows: EnumDisplayDevices:
+[2018.09.12-13.33.57:431][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.09.12-13.33.57:431][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:1)
+[2018.09.12-13.33.57:432][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.09.12-13.33.57:432][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2018.09.12-13.33.57:432][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 530
+[2018.09.12-13.33.57:432][  0]LogD3D11RHI:   Driver Version: 21.20.16.4627 (internal:21.20.16.4627, unified:21.20.16.4627)
+[2018.09.12-13.33.57:432][  0]LogD3D11RHI:      Driver Date: 3-9-2017
+[2018.09.12-13.33.57:432][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2018.09.12-13.33.57:438][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.12-13.33.57:444][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2018.09.12-13.33.57:445][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Intermediate/Shaders/WorkingDirectory/371676/).
+[2018.09.12-13.33.57:445][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/sgiron/AppData/Local/Temp/UnrealShaderWorkingDir/7BF2956C4EBF977B21EE1FBBA48BCD49/'.
+[2018.09.12-13.33.57:784][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.12-13.33.57:799][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.12-13.33.57:814][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.12-13.33.57:827][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.12-13.33.57:842][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.12-13.33.57:857][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.12-13.33.57:871][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.12-13.33.57:886][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.12-13.33.57:894][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.12-13.33.57:976][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-13.33.57:976][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-13.33.57:977][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-13.33.57:977][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-13.33.57:977][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-13.33.57:977][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-13.33.57:977][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-13.33.57:977][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-13.33.57:977][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-13.33.57:977][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-13.33.57:977][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-13.33.57:977][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-13.33.57:977][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-13.33.57:977][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-13.33.57:977][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-13.33.57:977][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-13.33.57:977][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-13.33.57:977][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-13.33.57:978][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.12-13.33.58:044][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.12-13.33.58:044][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.12-13.33.58:070][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.12-13.33.58:070][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.12-13.33.58:085][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.12-13.33.58:100][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.12-13.33.58:115][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.12-13.33.58:130][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.12-13.33.58:140][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.12-13.33.58:140][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.12-13.33.58:221][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.12-13.33.58:221][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.12-13.33.58:221][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.12-13.33.59:007][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.12-13.33.59:095][  0]LogDerivedDataCache: Loaded boot cache 0.09s 87MB C:/Users/sgiron/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.12-13.33.59:096][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/sgiron/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.09.12-13.33.59:096][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.12-13.33.59:096][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.12-13.33.59:096][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.12-13.33.59:096][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.12-13.33.59:110][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.12-13.33.59:123][  0]LogDerivedDataCache: Using Local data cache path C:/Users/sgiron/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.12-13.33.59:123][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.12-13.33.59:123][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.12-13.33.59:143][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.12-13.33.59:145][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.12-13.33.59:146][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.12-13.33.59:235][  0]LogAssetRegistry: FAssetRegistry took 0.0271 seconds to start up
+[2018.09.12-13.33.59:607][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.12-13.33.59:760][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.12-13.33.59:765][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.12-13.33.59:765][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.12-13.33.59:765][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.12-13.33.59:765][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.12-13.33.59:790][  0]LogNetVersion: BlockBreaker 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 316566691)
+[2018.09.12-13.34.00:446][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.140547 seconds
+[2018.09.12-13.34.00:453][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.09.12-13.34.00:453][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.09.12-13.34.00:453][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.12-13.34.01:442][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.12-13.34.01:467][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.12-13.34.01:624][  0]SourceControl: Source control is disabled
+[2018.09.12-13.34.01:624][  0]SourceControl: Source control is disabled
+[2018.09.12-13.34.01:626][  0]SourceControl: Source control is disabled
+[2018.09.12-13.34.01:627][  0]SourceControl: Source control is disabled
+[2018.09.12-13.34.01:814][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.12-13.34.01:885][  0]LogOcInput: OculusInput pre-init called
+[2018.09.12-13.34.01:953][  0]LogEngine: Initializing Engine...
+[2018.09.12-13.34.01:954][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.12-13.34.01:955][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.12-13.34.01:955][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.12-13.34.01:955][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.12-13.34.01:955][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.12-13.34.02:216][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.12-13.34.02:232][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.12-13.34.02:242][  0]LogInit: XAudio2 using 'Speakers (2- Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.12-13.34.02:255][  0]LogInit: FAudioDevice initialized.
+[2018.09.12-13.34.02:255][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.12-13.34.03:047][  0]LogDerivedDataCache: Saved boot cache 0.79s 87MB C:/Users/sgiron/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.12-13.34.03:054][  0]LogInit: Texture streaming: Enabled
+[2018.09.12-13.34.03:080][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.12-13.34.03:099][  0]LogInit: Transaction tracking system initialized
+[2018.09.12-13.34.03:137][  0]BlueprintLog: New page: Editor Load
+[2018.09.12-13.34.03:240][  0]LocalizationService: Localization service is disabled
+[2018.09.12-13.34.03:613][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.12-13.34.03:613][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.12-13.34.03:613][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.12-13.34.03:613][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.12-13.34.03:613][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.12-13.34.03:613][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.12-13.34.03:613][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.12-13.34.03:764][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sgiron/Desktop/BlockBreakerStarter/Content/' took 0.01s
+[2018.09.12-13.34.03:765][  0]SourceControl: Source control is disabled
+[2018.09.12-13.34.03:765][  0]Cmd: MAP LOAD FILE="../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/BlockBreaker/Maps/TutorialMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.12-13.34.03:765][  0]LightingResults: New page: Lighting Build
+[2018.09.12-13.34.03:769][  0]MapCheck: New page: Map Check
+[2018.09.12-13.34.03:769][  0]LightingResults: New page: Lighting Build
+[2018.09.12-13.34.04:748][  0]LogTexture: Display: Building textures: T_Reticle (AutoDXT, 128X128)
+[2018.09.12-13.34.04:748][  0]LogMaterial: Display: Missing cached shader map for material M_Reticle, compiling. 
+[2018.09.12-13.34.04:917][  0]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.12-13.34.04:917][  0]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.12-13.34.04:917][  0]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.12-13.34.04:919][  0]LogStaticMesh: Building static mesh SM_Cube...
+[2018.09.12-13.34.04:924][  0]LogStaticMesh: Built static mesh [0.01s] /Game/BlockBreaker/Meshes/SM_Cube.SM_Cube
+[2018.09.12-13.34.05:013][  0]LogStaticMesh: Building static mesh SM_Wall...
+[2018.09.12-13.34.05:208][  0]LogStaticMesh: Built static mesh [0.20s] /Game/BlockBreaker/Meshes/SM_Wall.SM_Wall
+[2018.09.12-13.34.05:234][  0]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2018.09.12-13.34.05:370][  0]LogAIModule: Creating AISystem for world TutorialMap
+[2018.09.12-13.34.05:405][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.12-13.34.05:520][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.12-13.34.05:607][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 86.763ms to complete.
+[2018.09.12-13.34.05:607][  0]LogFileHelpers: Loading map 'TutorialMap' took 1.843
+[2018.09.12-13.34.07:394][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-13.34.07:410][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-13.34.07:417][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-13.34.07:424][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-13.34.07:607][  0]LogCollectionManager: Loaded 0 collections in 0.002342 seconds
+[2018.09.12-13.34.07:835][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sgiron/Desktop/BlockBreakerStarter/Saved/Collections/' took 0.01s
+[2018.09.12-13.34.07:835][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sgiron/Desktop/BlockBreakerStarter/Content/Developers/sgiron/Collections/' took 0.01s
+[2018.09.12-13.34.07:835][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sgiron/Desktop/BlockBreakerStarter/Content/Collections/' took 0.01s
+[2018.09.12-13.34.07:835][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.09.12-13.34.07:847][  0]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 2572 classes and 603 folders.
+[2018.09.12-13.34.08:215][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.12-13.34.10:351][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.12-13.34.10:454][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.09.12-13.34.11:980][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.12-13.34.11:982][  0]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.12-13.34.12:454][  0]LogSlate: Took 0.113177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.12-13.34.12:694][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.09.12-13.34.14:051][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-13.34.14:184][  0]LogSlate: Window 'Tutorials' being destroyed
+[2018.09.12-13.34.14:232][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.12-13.34.14:232][  0]LogLoad: (Engine Initialization) Total time: 19.71 seconds
+[2018.09.12-13.34.14:232][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.12-13.34.14:244][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.12-13.34.14:382][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.12-13.34.14:407][  0]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.12-13.34.15:572][  2]LogAssetRegistry: Asset discovery search completed in 16.3601 seconds
+[2018.09.12-13.34.15:574][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.09.12-13.34.15:574][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000057 seconds (updated 0 objects)
+[2018.09.12-13.34.21:811][  4]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.12-13.34.21:811][  4]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.12-13.34.21:811][  4]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.12-13.34.26:427][ 21]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.09.12-13.34.29:112][ 31]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.09.12-13.34.30:399][ 36]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.09.12-13.34.31:707][ 41]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.09.12-13.34.50:977][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-13.34.56:514][208]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall9)
+[2018.09.12-13.34.59:282][246]LogEditorViewport: Clicking on Actor (LMB): BP_ResetButton_C (BP_ResetButton)
+[2018.09.12-13.35.00:649][270]LogEditorViewport: Clicking on Actor (LMB): BP_Target_C (BP_Target28)
+[2018.09.12-13.35.02:369][302]LogEditorViewport: Clicking on Actor (LMB): BP_Target_C (BP_Target5)
+[2018.09.12-13.35.03:954][332]LogEditorViewport: Clicking on Actor (LMB): BP_ResetButton_C (BP_ResetButton)
+[2018.09.12-13.35.12:892][507]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall11)
+[2018.09.12-13.35.13:878][522]LogEditorViewport: Clicking on Actor (LMB): BP_ResetButton_C (BP_ResetButton)
+[2018.09.12-13.35.35:291][945]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-13.35.50:275][625]LogEditorViewport: Clicking on Actor (LMB): BP_Target_C (BP_Target37)
+[2018.09.12-13.35.55:967][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-13.36.41:755][959]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.12-13.36.46:457][959]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.09.12-13.36.56:812][959]LogSlate: Window 'Create Blank Blueprint Class' being destroyed
+[2018.09.12-13.36.56:888][959]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2018.09.12-13.36.57:893][959]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.09.12-13.37.58:118][134]LogSlate: Took 0.010722 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.12-13.39.39:796][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2018.09.12-13.39.39:823][ 99]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_PlayerE78FB71B4BE4503396DA51BD76385C98.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Player.uasset'
+[2018.09.12-13.39.42:756][137]LogSlate: Window 'BP_Player' being destroyed
+[2018.09.12-13.39.42:813][137]LogSlate: Window 'BP_Player' being destroyed
+[2018.09.12-13.39.50:248][416]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.09.12-13.39.50:364][417]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BlockBreaker
+[2018.09.12-13.39.50:364][417]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.12-13.39.50:365][417]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.09.12-13.39.50:365][417]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.12-13.39.50:365][417]LogTemp: BranchPath = SF2636/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = SF2636/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.09.12-13.39.50:508][420]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\sgiron\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.09.12-13.44.14:858][280]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/TutorialMap_Auto1FDCAD27A4D68A01B267342AF843D197C.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/Autosaves/Game/BlockBreaker/Maps/TutorialMap_Auto1.umap'
+[2018.09.12-13.44.14:864][280]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BlockBreaker/Maps/TutorialMap' took 0.130
+[2018.09.12-13.44.14:864][280]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.130
+[2018.09.12-13.53.17:789][332]LogSlate: Window 'Project Settings' being destroyed
+[2018.09.12-13.53.17:806][332]LogSlate: Window 'Project Settings' being destroyed
+[2018.09.12-13.53.21:662][480]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.09.12-13.53.22:466][491]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BlockBreaker
+[2018.09.12-13.53.22:466][491]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.12-13.53.22:466][491]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.09.12-13.53.22:466][491]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.12-13.53.22:474][491]LogTemp: BranchPath = SF2636/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = SF2636/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.09.12-13.53.22:502][491]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\sgiron\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.09.12-13.53.34:594][715]LogSlate: Window 'Project Settings' being destroyed
+[2018.09.12-13.53.34:656][715]LogSlate: Window 'Project Settings' being destroyed
+[2018.09.12-13.54.56:964][695]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.12-13.54.56:964][695]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2018.09.12-13.56.03:771][917]LogSlate: Window 'BP_Player' being destroyed
+[2018.09.12-13.56.03:866][917]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2018.09.12-13.56.04:224][917]LogSlate: Took 0.019870 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.12-14.02.52:954][711]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BlockBreaker/Maps/TutorialMap' took 0.034
+[2018.09.12-14.02.52:957][711]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([1] browsable assets)...
+[2018.09.12-14.02.52:957][711]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2018.09.12-14.02.52:974][711]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_Player_Auto2820A377A418B9DD758B658B2EACE9C1F.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/Autosaves/Game/Blueprints/BP_Player_Auto2.uasset'
+[2018.09.12-14.02.52:977][711]LogFileHelpers: Auto-saving content packages took 0.024
+[2018.09.12-14.08.14:794][614]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'AActor::GetActorEyesViewPoint' [Element not found.]
+[2018.09.12-14.13.51:708][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2018.09.12-14.13.51:741][202]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_PlayerC264967D49B942C8260E368A5136BBA4.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Player.uasset'
+[2018.09.12-14.14.14:584][620]LogSlate: Window 'BP_Player' being destroyed
+[2018.09.12-14.14.14:596][620]LogSlate: Window 'BP_Player' being destroyed
+[2018.09.12-14.15.06:341][136]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.12-14.15.06:341][136]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2018.09.12-14.15.12:881][394]BlueprintLog: New page: Compile BP_Player
+[2018.09.12-14.33.34:993][716]LogSlate: Window 'BP_Player' being destroyed
+[2018.09.12-14.33.35:003][716]LogSlate: Window 'BP_Player' being destroyed
+[2018.09.12-14.35.16:337][481]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.12-14.35.41:000][ 59]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.12-14.35.41:030][ 59]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.12-14.35.41:033][ 59]LogPlayLevel: [PlayLevel] Compiling GM_Tutorial before play...
+[2018.09.12-14.35.41:069][ 59]LogPlayLevel: PlayLevel: Blueprint regeneration took 38 ms (1 blueprints)
+[2018.09.12-14.35.41:104][ 59]PIE: New page: PIE session: TutorialMap (Sep 12, 2018, 6:35:41 AM)
+[2018.09.12-14.35.41:115][ 59]LogPlayLevel: Creating play world package: /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap
+[2018.09.12-14.35.41:139][ 59]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023607s)
+[2018.09.12-14.35.41:139][ 59]LogAIModule: Creating AISystem for world TutorialMap
+[2018.09.12-14.35.41:140][ 59]LogPlayLevel: PIE: World Init took: (0.000864s)
+[2018.09.12-14.35.41:140][ 59]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlockBreaker/Maps/TutorialMap.TutorialMap to /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.024694s)
+[2018.09.12-14.35.41:175][ 59]LogInit: XAudio2 using 'Speakers (2- Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.12-14.35.41:184][ 59]LogInit: FAudioDevice initialized.
+[2018.09.12-14.35.41:274][ 59]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.09.12-14.35.41:283][ 59]LogWorld: Bringing World /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2018.09.12-10.35.41
+[2018.09.12-14.35.41:284][ 59]LogWorld: Bringing up level for play took: 0.004134
+[2018.09.12-14.35.41:347][ 59]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.09.12-14.35.41:431][ 59]PIE: Play in editor start time for /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap -0.049
+[2018.09.12-14.36.32:039][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-14.36.32:095][349]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.12-14.36.32:127][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-14.36.32:179][350]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.09.12-14.37.05:876][751]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-14.37.17:246][966]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-14.37.17:261][966]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-14.37.17:823][977]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-14.37.38:622][364]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.09.12-14.37.39:184][374]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BlockBreaker
+[2018.09.12-14.37.39:184][374]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.12-14.37.39:184][374]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.09.12-14.37.39:184][374]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.12-14.37.39:216][375]LogTemp: BranchPath = SF2636/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = SF2636/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.09.12-14.37.39:251][375]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\sgiron\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.09.12-14.39.32:230][490]LogSlate: Window 'Project Settings' being destroyed
+[2018.09.12-14.39.32:290][490]LogSlate: Window 'Project Settings' being destroyed
+[2018.09.12-14.40.01:956][ 58]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/TutorialMapBE17AFFA4247C9E25561D5B27FDB25F5.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/BlockBreaker/Maps/TutorialMap.umap'
+[2018.09.12-14.40.46:052][880]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.12-14.40.46:052][880]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2018.09.12-14.43.44:349][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2018.09.12-14.43.44:374][900]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_Player157FF691481261646679AFAFCB205007.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Player.uasset'
+[2018.09.12-14.43.46:203][931]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.12-14.43.46:235][931]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.12-14.43.46:247][931]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2018.09.12-14.43.46:452][931]LogPlayLevel: PlayLevel: Blueprint regeneration took 216 ms (1 blueprints)
+[2018.09.12-14.43.46:452][931]PIE: New page: PIE session: TutorialMap (Sep 12, 2018, 6:43:46 AM)
+[2018.09.12-14.43.46:452][931]LogPlayLevel: Creating play world package: /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap
+[2018.09.12-14.43.46:458][931]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006326s)
+[2018.09.12-14.43.46:459][931]LogAIModule: Creating AISystem for world TutorialMap
+[2018.09.12-14.43.46:459][931]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2018.09.12-14.43.46:459][931]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlockBreaker/Maps/TutorialMap.TutorialMap to /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.007339s)
+[2018.09.12-14.43.46:495][931]LogInit: XAudio2 using 'Speakers (2- Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.12-14.43.46:507][931]LogInit: FAudioDevice initialized.
+[2018.09.12-14.43.46:568][931]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.09.12-14.43.46:572][931]LogWorld: Bringing World /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2018.09.12-10.43.46
+[2018.09.12-14.43.46:573][931]LogWorld: Bringing up level for play took: 0.003850
+[2018.09.12-14.43.46:588][931]PIE: Play in editor start time for /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap 1.107
+[2018.09.12-14.43.53:081][ 67]Cmd: SELECT NONE
+[2018.09.12-14.43.54:640][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-14.43.54:709][100]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.12-14.43.54:742][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-14.43.54:762][101]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.09.12-14.44.00:644][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2018.09.12-14.44.00:666][208]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_PlayerF6A421FE443851E2A460A4B8AC401764.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Player.uasset'
+[2018.09.12-14.44.01:944][233]LogSlate: Window 'BP_Player' being destroyed
+[2018.09.12-14.44.01:961][233]LogSlate: Window 'BP_Player' being destroyed
+[2018.09.12-14.44.03:362][260]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.12-14.44.03:376][260]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.12-14.44.03:376][260]PIE: New page: PIE session: TutorialMap (Sep 12, 2018, 6:44:03 AM)
+[2018.09.12-14.44.03:376][260]LogPlayLevel: Creating play world package: /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap
+[2018.09.12-14.44.03:382][260]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005806s)
+[2018.09.12-14.44.03:382][260]LogAIModule: Creating AISystem for world TutorialMap
+[2018.09.12-14.44.03:382][260]LogPlayLevel: PIE: World Init took: (0.000691s)
+[2018.09.12-14.44.03:382][260]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlockBreaker/Maps/TutorialMap.TutorialMap to /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.006642s)
+[2018.09.12-14.44.03:414][260]LogInit: XAudio2 using 'Speakers (2- Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.12-14.44.03:424][260]LogInit: FAudioDevice initialized.
+[2018.09.12-14.44.03:458][260]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.09.12-14.44.03:462][260]LogWorld: Bringing World /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2018.09.12-10.44.03
+[2018.09.12-14.44.03:462][260]LogWorld: Bringing up level for play took: 0.003485
+[2018.09.12-14.44.03:477][260]PIE: Play in editor start time for /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap -0.005
+[2018.09.12-14.45.04:678][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-14.45.04:776][813]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.12-14.45.04:809][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-14.45.04:859][814]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.09.12-14.45.53:425][757]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-14.45.57:158][824]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.12-14.45.57:158][824]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2018.09.12-14.47.58:456][925]LogEditorTransaction: Undo Delete current selection
+[2018.09.12-14.49.30:707][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2018.09.12-14.49.30:733][503]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_PlayerAEED2C1F460536AE6FFDD48CE1BA2AC3.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Player.uasset'
+[2018.09.12-14.49.31:934][526]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-14.49.32:058][528]LogSlate: Window 'BP_Player' being destroyed
+[2018.09.12-14.49.32:121][528]LogSlate: Window 'BP_Player' being destroyed
+[2018.09.12-14.49.36:064][600]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-14.49.41:954][710]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-14.49.42:905][710]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.09.12-14.49.43:486][721]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BlockBreaker
+[2018.09.12-14.49.43:486][721]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.12-14.49.43:486][721]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.09.12-14.49.43:486][721]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.12-14.49.43:492][721]LogTemp: BranchPath = SF2636/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = SF2636/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.09.12-14.49.43:546][722]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\sgiron\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.09.12-14.50.46:959][889]LogSlate: Window 'Project Settings' being destroyed
+[2018.09.12-14.50.47:020][889]LogSlate: Window 'Project Settings' being destroyed
+[2018.09.12-14.50.51:125][966]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-14.50.54:961][ 31]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.12-14.50.54:961][ 31]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2018.09.12-14.54.24:161][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2018.09.12-14.54.24:182][492]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_Player01943667483D66E56224DB94B9D85F13.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Player.uasset'
+[2018.09.12-14.54.26:104][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-14.54.27:414][548]LogSlate: Window 'BP_Player' being destroyed
+[2018.09.12-14.54.27:475][548]LogSlate: Window 'BP_Player' being destroyed
+[2018.09.12-14.54.29:985][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-14.54.30:088][598]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.12-14.54.30:112][598]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.12-14.54.30:118][598]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2018.09.12-14.54.30:183][598]LogPlayLevel: PlayLevel: Blueprint regeneration took 71 ms (1 blueprints)
+[2018.09.12-14.54.30:184][598]PIE: New page: PIE session: TutorialMap (Sep 12, 2018, 6:54:30 AM)
+[2018.09.12-14.54.30:184][598]LogPlayLevel: Creating play world package: /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap
+[2018.09.12-14.54.30:191][598]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006878s)
+[2018.09.12-14.54.30:191][598]LogAIModule: Creating AISystem for world TutorialMap
+[2018.09.12-14.54.30:192][598]LogPlayLevel: PIE: World Init took: (0.000848s)
+[2018.09.12-14.54.30:192][598]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlockBreaker/Maps/TutorialMap.TutorialMap to /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.007914s)
+[2018.09.12-14.54.30:225][598]LogInit: XAudio2 using 'Speakers (2- Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.12-14.54.30:235][598]LogInit: FAudioDevice initialized.
+[2018.09.12-14.54.30:270][598]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.09.12-14.54.30:275][598]LogWorld: Bringing World /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2018.09.12-10.54.30
+[2018.09.12-14.54.30:275][598]LogWorld: Bringing up level for play took: 0.004112
+[2018.09.12-14.54.30:291][598]PIE: Play in editor start time for /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap 0.852
+[2018.09.12-14.54.48:806][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-14.54.48:857][ 68]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.12-14.54.48:897][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-14.54.48:921][ 69]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.09.12-14.55.16:373][601]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-14.55.16:450][601]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BlockBreaker/Maps/TutorialMap' took 0.032
+[2018.09.12-14.55.16:455][601]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BlockBreaker/Blueprints/GM_Tutorial] ([1] browsable assets)...
+[2018.09.12-14.55.16:455][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlockBreaker/Blueprints/GM_Tutorial]
+[2018.09.12-14.55.16:470][601]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/GM_Tutorial_Auto3D3AF7F594ED40B9247C492890B3134E0.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/Autosaves/Game/BlockBreaker/Blueprints/GM_Tutorial_Auto3.uasset'
+[2018.09.12-14.55.16:474][601]LogFileHelpers: Auto-saving content packages took 0.022
+[2018.09.12-14.56.35:628][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-14.56.45:456][261]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-14.56.49:803][261]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.09.12-14.56.49:817][261]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-14.57.02:974][261]LogSlate: Window 'Create Blank Blueprint Class' being destroyed
+[2018.09.12-14.57.02:998][261]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-14.57.03:002][261]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_BaseGun.BP_BaseGun
+[2018.09.12-14.57.44:407][797]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-14.58.10:132][120]LogSlate: Took 0.056567 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.09.12-14.58.30:483][379]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-15.00.28:164][876]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-15.00.32:875][935]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-15.01.35:325][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-15.01.35:574][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_BaseGun" FILE="../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_BaseGun.uasset" SILENT=true
+[2018.09.12-15.01.35:589][703]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_BaseGunE588EE6541AC98B8E0706EB0BB6C4706.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_BaseGun.uasset'
+[2018.09.12-15.01.40:309][762]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-15.01.43:965][805]BlueprintLog: New page: Compile BP_BaseGun
+[2018.09.12-15.01.47:626][850]LogSlate: Window 'BP_BaseGun' being destroyed
+[2018.09.12-15.01.47:715][850]LogSlate: Window 'BP_BaseGun' being destroyed
+[2018.09.12-15.03.03:991][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-15.03.34:613][813]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.12-15.03.34:613][813]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_BaseGun.BP_BaseGun
+[2018.09.12-15.03.53:116][129]LogSlate: Window 'BP_BaseGun' being destroyed
+[2018.09.12-15.03.53:147][129]LogSlate: Window 'BP_BaseGun' being destroyed
+[2018.09.12-15.04.44:289][ 80]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Rifle.BP_Rifle
+[2018.09.12-15.05.39:096][750]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BlockBreaker/Maps/TutorialMap' took 0.034
+[2018.09.12-15.05.39:100][750]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Rifle] ([1] browsable assets)...
+[2018.09.12-15.05.39:100][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Rifle]
+[2018.09.12-15.05.39:115][750]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_Rifle_Auto48A66EA804CDAC5AA431A9D80793C4C6D.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/Autosaves/Game/Blueprints/BP_Rifle_Auto4.uasset'
+[2018.09.12-15.05.39:118][750]LogFileHelpers: Auto-saving content packages took 0.020
+[2018.09.12-15.06.14:895][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Rifle" FILE="../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Rifle.uasset" SILENT=true
+[2018.09.12-15.06.14:909][194]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_Rifle7F845D384D9B8F3ED937E09F6A24D638.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Rifle.uasset'
+[2018.09.12-15.07.41:354][233]LogTexture: Display: Building textures: T_Gun (AutoDXT, 256X256)
+[2018.09.12-15.07.41:354][233]LogStaticMesh: Building static mesh SM_Rifle...
+[2018.09.12-15.07.41:402][233]LogStaticMesh: Built static mesh [0.05s] /Game/BlockBreaker/Meshes/SM_Rifle.SM_Rifle
+[2018.09.12-15.07.41:410][233]LogMaterial: Display: Missing cached shader map for material M_Gun, compiling. 
+[2018.09.12-15.07.41:469][233]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.12-15.07.41:469][233]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.12-15.07.41:469][233]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.12-15.08.08:917][571]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-15.08.10:643][592]BlueprintLog: New page: Compile BP_Rifle
+[2018.09.12-15.08.14:643][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-15.08.14:802][644]LogSlate: Window 'BP_Rifle*' being destroyed
+[2018.09.12-15.08.14:884][644]LogSlate: Window 'BP_Rifle*' being destroyed
+[2018.09.12-15.08.34:491][984]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.12-15.08.34:491][984]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2018.09.12-15.10.56:247][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2018.09.12-15.10.56:274][592]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_PlayerE5C578A04BA2EFF18586CDB1FC4BFC07.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Player.uasset'
+[2018.09.12-15.10.57:427][614]LogSlate: Window 'BP_Player' being destroyed
+[2018.09.12-15.10.57:488][614]LogSlate: Window 'BP_Player' being destroyed
+[2018.09.12-15.11.40:162][434]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.12-15.11.40:162][434]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_BaseGun.BP_BaseGun
+[2018.09.12-15.11.55:093][691]LogSlate: Window 'BP_BaseGun' being destroyed
+[2018.09.12-15.11.55:154][691]LogSlate: Window 'BP_BaseGun' being destroyed
+[2018.09.12-15.12.00:338][768]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.09.12-15.12.01:021][781]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BlockBreaker
+[2018.09.12-15.12.01:021][781]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.12-15.12.01:021][781]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.09.12-15.12.01:021][781]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.12-15.12.01:036][781]LogTemp: BranchPath = SF2636/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = SF2636/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.09.12-15.12.01:095][782]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\sgiron\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.09.12-15.12.02:691][811]LogSlate: Window 'Project Settings' being destroyed
+[2018.09.12-15.12.02:752][811]LogSlate: Window 'Project Settings' being destroyed
+[2018.09.12-15.12.08:278][906]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.12-15.12.08:278][906]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_BaseGun.BP_BaseGun
+[2018.09.12-15.12.22:722][158]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Rifle.BP_Rifle
+[2018.09.12-15.12.25:826][211]LogSlate: Window 'BP_Rifle*' being destroyed
+[2018.09.12-15.12.25:873][211]LogSlate: Window 'BP_Rifle*' being destroyed
+[2018.09.12-15.12.25:972][211]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.12-15.12.55:781][677]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.12-15.12.55:781][677]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_BaseGun.BP_BaseGun
+[2018.09.12-15.14.09:711][ 36]LogSlate: Window 'BP_BaseGun' being destroyed
+[2018.09.12-15.14.09:739][ 36]LogSlate: Window 'BP_BaseGun' being destroyed
+[2018.09.12-15.14.14:134][114]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.12-15.14.14:134][114]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2018.09.12-15.16.22:429][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2018.09.12-15.16.22:456][247]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_PlayerFD53368C431846813F530B89B3079859.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Player.uasset'
+[2018.09.12-15.16.26:635][317]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BlockBreaker/Maps/TutorialMap' took 0.043
+[2018.09.12-15.16.26:639][317]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Rifle] ([1] browsable assets)...
+[2018.09.12-15.16.26:639][317]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Rifle]
+[2018.09.12-15.16.26:660][317]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_Rifle_Auto5B38CA30D411225A4CD5D018AE5B87D6A.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/Autosaves/Game/Blueprints/BP_Rifle_Auto5.uasset'
+[2018.09.12-15.16.26:681][317]LogFileHelpers: Auto-saving content packages took 0.044
+[2018.09.12-15.18.30:441][191]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.12-15.31.35:803][601]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BlockBreaker/Maps/TutorialMap' took 0.040
+[2018.09.12-15.31.35:806][601]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([1] browsable assets)...
+[2018.09.12-15.31.35:807][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2018.09.12-15.31.35:835][601]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_Player_Auto667EA9503442144376C75FF81AD2062BB.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/Autosaves/Game/Blueprints/BP_Player_Auto6.uasset'
+[2018.09.12-15.31.35:838][601]LogFileHelpers: Auto-saving content packages took 0.034
+[2018.09.12-15.36.50:447][435]BlueprintLog: New page: Compile BP_Player
+[2018.09.12-15.36.50:467][435]LogBlueprint: Error: [Compiler BP_Player] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.09.12-15.36.50:470][435]LogBlueprint: Error: [Compiler BP_Player] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.09.12-15.36.50:635][435]LogBlueprint: Warning: [Compiler BP_Player] [7376.17] Compile of BP_Player failed. 2 Fatal Issue(s) 0 Warning(s) [in 188 ms] (/Game/Blueprints/BP_Player.BP_Player)
+[2018.09.12-15.39.12:329][813]BlueprintLog: New page: Compile BP_Player
+[2018.09.12-15.39.23:380][  6]LogSlate: Window 'BP_Player*' being destroyed
+[2018.09.12-15.39.23:441][  6]LogSlate: Window 'BP_Player*' being destroyed
+[2018.09.12-15.39.24:657][ 28]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.12-15.39.24:703][ 28]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.12-15.39.24:704][ 28]PIE: New page: PIE session: TutorialMap (Sep 12, 2018, 7:39:24 AM)
+[2018.09.12-15.39.24:704][ 28]LogPlayLevel: Creating play world package: /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap
+[2018.09.12-15.39.24:718][ 28]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014029s)
+[2018.09.12-15.39.24:719][ 28]LogAIModule: Creating AISystem for world TutorialMap
+[2018.09.12-15.39.24:719][ 28]LogPlayLevel: PIE: World Init took: (0.001016s)
+[2018.09.12-15.39.24:719][ 28]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlockBreaker/Maps/TutorialMap.TutorialMap to /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.015229s)
+[2018.09.12-15.39.24:780][ 28]LogInit: XAudio2 using 'Speakers (2- Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.12-15.39.24:795][ 28]LogInit: FAudioDevice initialized.
+[2018.09.12-15.39.24:825][ 28]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.09.12-15.39.24:829][ 28]LogWorld: Bringing World /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2018.09.12-11.39.24
+[2018.09.12-15.39.24:830][ 28]LogWorld: Bringing up level for play took: 0.004052
+[2018.09.12-15.39.24:873][ 28]PIE: Play in editor start time for /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap -0.555
+[2018.09.12-15.40.23:407][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-15.40.23:461][471]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.12-15.40.23:503][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-15.40.23:529][472]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.09.12-15.42.35:231][ 30]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BlockBreaker/Maps/TutorialMap' took 0.039
+[2018.09.12-15.42.35:236][ 30]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([1] browsable assets)...
+[2018.09.12-15.42.35:236][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2018.09.12-15.42.35:272][ 30]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_Player_Auto77AEB84CF4352185EE4E382997416723E.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/Autosaves/Game/Blueprints/BP_Player_Auto7.uasset'
+[2018.09.12-15.42.35:276][ 30]LogFileHelpers: Auto-saving content packages took 0.044
+[2018.09.12-15.42.51:817][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-15.42.55:903][134]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.12-15.42.55:904][134]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_BaseGun.BP_BaseGun
+[2018.09.12-15.52.35:977][518]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BlockBreaker/Maps/TutorialMap' took 0.031
+[2018.09.12-15.52.35:981][518]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_BaseGun] ([1] browsable assets)...
+[2018.09.12-15.52.35:981][518]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_BaseGun]
+[2018.09.12-15.52.35:998][518]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_BaseGun_Auto85F466854442F2A33E5F7AFB92FBBD213.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/Autosaves/Game/Blueprints/BP_BaseGun_Auto8.uasset'
+[2018.09.12-15.52.36:003][518]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Rifle] ([1] browsable assets)...
+[2018.09.12-15.52.36:003][518]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Rifle]
+[2018.09.12-15.52.36:021][518]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_Rifle_Auto8E8886B824831CD887F7C1D94B8D7FC1D.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/Autosaves/Game/Blueprints/BP_Rifle_Auto8.uasset'
+[2018.09.12-15.52.36:024][518]LogFileHelpers: Auto-saving content packages took 0.046
+[2018.09.12-15.58.16:003][709]BlueprintLog: New page: Compile BP_BaseGun
+[2018.09.12-15.58.27:487][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_BaseGun" FILE="../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_BaseGun.uasset" SILENT=true
+[2018.09.12-15.58.27:510][912]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_BaseGun5C435D944E77825D0AFB14908ADA6579.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_BaseGun.uasset'
+[2018.09.12-15.58.41:126][154]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-15.58.52:261][353]LogSlate: Window 'BP_BaseGun' being destroyed
+[2018.09.12-15.58.52:318][353]LogSlate: Window 'BP_BaseGun' being destroyed
+[2018.09.12-15.58.54:003][385]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-15.58.55:216][409]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-15.58.56:145][409]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.09.12-15.58.56:558][417]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BlockBreaker
+[2018.09.12-15.58.56:558][417]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.12-15.58.56:558][417]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.09.12-15.58.56:558][417]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.12-15.58.56:565][417]LogTemp: BranchPath = SF2636/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = SF2636/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.09.12-15.58.56:614][418]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\sgiron\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.09.12-15.59.52:739][505]LogSlate: Window 'Project Settings' being destroyed
+[2018.09.12-15.59.52:799][505]LogSlate: Window 'Project Settings' being destroyed
+[2018.09.12-15.59.53:862][525]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-16.00.07:992][717]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.12-16.00.07:993][717]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2018.09.12-16.04.16:264][123]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BlockBreaker/Maps/TutorialMap' took 0.036
+[2018.09.12-16.04.16:267][123]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([1] browsable assets)...
+[2018.09.12-16.04.16:267][123]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2018.09.12-16.04.16:298][123]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_Player_Auto9C8D997E146C7349D1C53C9A37B652342.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/Autosaves/Game/Blueprints/BP_Player_Auto9.uasset'
+[2018.09.12-16.04.16:303][123]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Rifle] ([1] browsable assets)...
+[2018.09.12-16.04.16:303][123]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Rifle]
+[2018.09.12-16.04.16:320][123]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_Rifle_Auto9FFC0ECDC43F43F76075D2DB358891011.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/Autosaves/Game/Blueprints/BP_Rifle_Auto9.uasset'
+[2018.09.12-16.04.16:323][123]LogFileHelpers: Auto-saving content packages took 0.058
+[2018.09.12-16.04.27:851][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-16.14.40:147][504]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BlockBreaker/Maps/TutorialMap' took 0.037
+[2018.09.12-16.14.40:151][504]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([1] browsable assets)...
+[2018.09.12-16.14.40:151][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2018.09.12-16.14.40:185][504]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_Player_Auto0C6EDC2D14357461D5A1F78B299E1DED5.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/Autosaves/Game/Blueprints/BP_Player_Auto0.uasset'
+[2018.09.12-16.14.40:188][504]LogFileHelpers: Auto-saving content packages took 0.039
+[2018.09.12-16.14.45:579][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-16.15.41:229][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2018.09.12-16.15.41:261][569]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_Player172BE533481A546CA7EDA187A978EA2F.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Player.uasset'
+[2018.09.12-16.15.43:563][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-16.15.44:708][632]LogSlate: Window 'BP_Player' being destroyed
+[2018.09.12-16.15.44:765][632]LogSlate: Window 'BP_Player' being destroyed
+[2018.09.12-16.15.47:885][693]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-16.15.49:260][720]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-16.15.50:195][720]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.09.12-16.15.50:647][729]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BlockBreaker
+[2018.09.12-16.15.50:647][729]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.12-16.15.50:647][729]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.09.12-16.15.50:647][729]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.12-16.15.50:647][729]LogTemp: BranchPath = SF2636/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = SF2636/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.09.12-16.15.50:698][730]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\sgiron\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.09.12-16.15.53:789][789]LogSlate: Window 'Project Settings' being destroyed
+[2018.09.12-16.15.53:847][789]LogSlate: Window 'Project Settings' being destroyed
+[2018.09.12-16.15.54:708][805]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-16.16.00:976][894]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.12-16.16.00:976][894]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_BaseGun.BP_BaseGun
+[2018.09.12-16.16.59:807][ 11]LogSlate: Window 'BP_BaseGun' being destroyed
+[2018.09.12-16.16.59:861][ 11]LogSlate: Window 'BP_BaseGun' being destroyed
+[2018.09.12-16.17.00:859][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-16.17.02:972][ 63]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.12-16.17.02:972][ 63]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2018.09.12-16.22.03:225][497]LogSlate: Window 'BP_Player' being destroyed
+[2018.09.12-16.22.03:282][497]LogSlate: Window 'BP_Player' being destroyed
+[2018.09.12-16.22.03:997][509]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-16.22.08:227][565]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.12-16.22.08:227][565]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_BaseGun.BP_BaseGun
+[2018.09.12-16.22.49:413][352]LogSlate: Window 'BP_BaseGun' being destroyed
+[2018.09.12-16.22.49:469][352]LogSlate: Window 'BP_BaseGun' being destroyed
+[2018.09.12-16.22.50:370][368]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-16.22.58:503][490]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.12-16.22.58:503][490]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2018.09.12-16.25.29:283][178]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BlockBreaker/Maps/TutorialMap' took 0.038
+[2018.09.12-16.25.29:286][178]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([1] browsable assets)...
+[2018.09.12-16.25.29:286][178]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2018.09.12-16.25.29:319][178]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_Player_Auto136A7B9194F0660CE9B00898B8200F4BD.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/Autosaves/Game/Blueprints/BP_Player_Auto1.uasset'
+[2018.09.12-16.25.29:322][178]LogFileHelpers: Auto-saving content packages took 0.038
+[2018.09.12-16.25.29:756][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-16.26.50:342][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2018.09.12-16.26.50:373][360]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_PlayerCBC3EC894E011C7BB31E8283F4D334D9.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Player.uasset'
+[2018.09.12-16.30.18:067][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-16.32.18:554][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-16.33.59:122][557]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-16.36.33:953][773]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BlockBreaker/Maps/TutorialMap' took 0.036
+[2018.09.12-16.36.33:957][773]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([1] browsable assets)...
+[2018.09.12-16.36.33:957][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2018.09.12-16.36.33:993][773]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_Player_Auto213E6586D4F3BF47A1D383A86E7F709C7.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/Autosaves/Game/Blueprints/BP_Player_Auto2.uasset'
+[2018.09.12-16.36.33:996][773]LogFileHelpers: Auto-saving content packages took 0.042
+[2018.09.12-16.46.47:479][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2018.09.12-16.46.47:516][481]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_Player35D78C45419B7C874E0FE7A9D4D41B74.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Player.uasset'
+[2018.09.12-16.46.52:632][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-16.46.54:457][600]LogSlate: Window 'BP_Player' being destroyed
+[2018.09.12-16.46.54:514][600]LogSlate: Window 'BP_Player' being destroyed
+[2018.09.12-16.46.55:990][626]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-16.47.04:534][728]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.12-16.47.04:534][728]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_BaseGun.BP_BaseGun
+[2018.09.12-16.47.13:591][891]LogSlate: Window 'BP_BaseGun' being destroyed
+[2018.09.12-16.47.13:647][891]LogSlate: Window 'BP_BaseGun' being destroyed
+[2018.09.12-16.47.15:655][929]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-16.47.18:711][978]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.12-16.47.18:711][978]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2018.09.12-16.48.56:806][665]LogEditorTransaction: Undo Promote To Variable
+[2018.09.12-16.49.30:517][255]LogEditorTransaction: Undo Create Pin Link
+[2018.09.12-16.49.59:726][766]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BlockBreaker/Maps/TutorialMap' took 0.038
+[2018.09.12-16.49.59:730][766]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([1] browsable assets)...
+[2018.09.12-16.49.59:730][766]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2018.09.12-16.49.59:763][766]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_Player_Auto36989F0AA4B729407CA8D288A81AD5132.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/Autosaves/Game/Blueprints/BP_Player_Auto3.uasset'
+[2018.09.12-16.49.59:766][766]LogFileHelpers: Auto-saving content packages took 0.039
+[2018.09.12-16.50.09:571][939]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-17.00.57:162][177]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-17.01.22:078][253]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BlockBreaker/Maps/TutorialMap' took 0.036
+[2018.09.12-17.01.22:082][253]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([1] browsable assets)...
+[2018.09.12-17.01.22:082][253]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2018.09.12-17.01.22:118][253]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_Player_Auto4A9FAE6124DC94275483885AB1CDE009D.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/Autosaves/Game/Blueprints/BP_Player_Auto4.uasset'
+[2018.09.12-17.01.22:122][253]LogFileHelpers: Auto-saving content packages took 0.042
+[2018.09.12-18.15.46:932][677]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-18.23.12:043][891]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BlockBreaker/Maps/TutorialMap' took 0.034
+[2018.09.12-18.23.12:047][891]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([1] browsable assets)...
+[2018.09.12-18.23.12:047][891]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2018.09.12-18.23.12:084][891]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_Player_Auto5B1A1F7FE4A05044CE8BD7E9C11324E87.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/Autosaves/Game/Blueprints/BP_Player_Auto5.uasset'
+[2018.09.12-18.23.12:088][891]LogFileHelpers: Auto-saving content packages took 0.044
+[2018.09.12-18.23.59:384][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-18.27.04:666][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2018.09.12-18.27.04:704][583]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_PlayerF4F8C79540A2D697A49A64B78C750DA5.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Player.uasset'
+[2018.09.12-18.28.18:445][825]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-18.29.17:897][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2018.09.12-18.29.17:940][836]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_PlayerA88C8E9B4DB7243694C387A207797010.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Player.uasset'
+[2018.09.12-18.29.23:046][920]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-18.29.25:456][959]BlueprintLog: New page: Compile BP_Player
+[2018.09.12-18.29.29:100][ 18]LogSlate: Window 'BP_Player' being destroyed
+[2018.09.12-18.29.29:168][ 18]LogSlate: Window 'BP_Player' being destroyed
+[2018.09.12-18.29.30:244][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-18.29.30:244][ 37]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.12-18.29.30:273][ 37]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.12-18.29.30:273][ 37]PIE: New page: PIE session: TutorialMap (Sep 12, 2018, 10:29:30 AM)
+[2018.09.12-18.29.30:273][ 37]LogPlayLevel: Creating play world package: /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap
+[2018.09.12-18.29.30:287][ 37]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013639s)
+[2018.09.12-18.29.30:287][ 37]LogAIModule: Creating AISystem for world TutorialMap
+[2018.09.12-18.29.30:288][ 37]LogPlayLevel: PIE: World Init took: (0.001233s)
+[2018.09.12-18.29.30:288][ 37]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlockBreaker/Maps/TutorialMap.TutorialMap to /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.015100s)
+[2018.09.12-18.29.30:340][ 37]LogInit: XAudio2 using 'Speakers (2- Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.12-18.29.30:351][ 37]LogInit: FAudioDevice initialized.
+[2018.09.12-18.29.30:382][ 37]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.09.12-18.29.30:385][ 37]LogWorld: Bringing World /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2018.09.12-14.29.30
+[2018.09.12-18.29.30:386][ 37]LogWorld: Bringing up level for play took: 0.003807
+[2018.09.12-18.29.30:402][ 37]PIE: Play in editor start time for /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap 1.06
+[2018.09.12-18.30.02:264][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-18.30.02:322][820]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.12-18.30.02:362][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-18.30.02:390][821]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2018.09.12-18.30.30:929][370]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-18.30.59:389][909]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.12-18.30.59:389][909]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2018.09.12-18.34.29:105][609]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BlockBreaker/Maps/TutorialMap' took 0.033
+[2018.09.12-18.34.29:109][609]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([1] browsable assets)...
+[2018.09.12-18.34.29:109][609]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2018.09.12-18.34.29:148][609]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_Player_Auto640461DC64C744C5C47D13EBFE755F0FF.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/Autosaves/Game/Blueprints/BP_Player_Auto6.uasset'
+[2018.09.12-18.34.29:152][609]LogFileHelpers: Auto-saving content packages took 0.045
+[2018.09.12-18.38.22:483][723]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-18.38.22:594][725]BlueprintLog: New page: Compile BP_Player
+[2018.09.12-18.38.30:529][863]LogSlate: Window 'BP_Player*' being destroyed
+[2018.09.12-18.38.30:585][863]LogSlate: Window 'BP_Player*' being destroyed
+[2018.09.12-18.38.32:735][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-18.38.32:787][905]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.12-18.38.32:808][905]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.12-18.38.32:808][905]PIE: New page: PIE session: TutorialMap (Sep 12, 2018, 10:38:32 AM)
+[2018.09.12-18.38.32:809][905]LogPlayLevel: Creating play world package: /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap
+[2018.09.12-18.38.32:820][905]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011127s)
+[2018.09.12-18.38.32:821][905]LogAIModule: Creating AISystem for world TutorialMap
+[2018.09.12-18.38.32:822][905]LogPlayLevel: PIE: World Init took: (0.002223s)
+[2018.09.12-18.38.32:823][905]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlockBreaker/Maps/TutorialMap.TutorialMap to /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.013822s)
+[2018.09.12-18.38.32:876][905]LogInit: XAudio2 using 'Speakers (2- Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.12-18.38.32:886][905]LogInit: FAudioDevice initialized.
+[2018.09.12-18.38.32:916][905]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.09.12-18.38.32:919][905]LogWorld: Bringing World /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2018.09.12-14.38.32
+[2018.09.12-18.38.32:920][905]LogWorld: Bringing up level for play took: 0.002799
+[2018.09.12-18.38.32:934][905]PIE: Play in editor start time for /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap -0.404
+[2018.09.12-18.38.58:822][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-18.38.58:929][560]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.12-18.38.58:962][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-18.38.58:988][561]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2018.09.12-18.39.00:626][593]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-18.39.03:117][631]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.12-18.39.03:117][631]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_BaseGun.BP_BaseGun
+[2018.09.12-18.43.02:122][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-18.45.11:746][945]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BlockBreaker/Maps/TutorialMap' took 0.260
+[2018.09.12-18.45.11:761][945]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([1] browsable assets)...
+[2018.09.12-18.45.11:761][945]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2018.09.12-18.45.11:930][945]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_Player_Auto75F59100A401DF922EF52C0949DB11B79.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/Autosaves/Game/Blueprints/BP_Player_Auto7.uasset'
+[2018.09.12-18.45.11:951][945]LogFileHelpers: Auto-saving content packages took 0.202
+[2018.09.12-18.47.09:367][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-18.51.01:005][157]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-18.55.31:633][526]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-18.55.38:340][625]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.12-18.55.38:340][625]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2018.09.12-18.56.41:533][716]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BlockBreaker/Maps/TutorialMap' took 0.037
+[2018.09.12-18.56.41:537][716]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([1] browsable assets)...
+[2018.09.12-18.56.41:537][716]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2018.09.12-18.56.41:576][716]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_Player_Auto8D3216F044E5DF98F0F4ED9B307EE16BB.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/Autosaves/Game/Blueprints/BP_Player_Auto8.uasset'
+[2018.09.12-18.56.41:579][716]LogFileHelpers: Auto-saving content packages took 0.045
+[2018.09.12-18.56.45:998][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-19.00.14:151][421]LogEditorTransaction: Undo Create Pin Link
+[2018.09.12-19.06.42:045][802]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BlockBreaker/Maps/TutorialMap' took 0.042
+[2018.09.12-19.06.42:050][802]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([1] browsable assets)...
+[2018.09.12-19.06.42:050][802]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2018.09.12-19.06.42:094][802]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_Player_Auto99A8342824B2DC75B14ED03AE438E1ABE.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/Autosaves/Game/Blueprints/BP_Player_Auto9.uasset'
+[2018.09.12-19.06.42:099][802]LogFileHelpers: Auto-saving content packages took 0.052
+[2018.09.12-19.22.13:870][529]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BlockBreaker/Maps/TutorialMap' took 0.036
+[2018.09.12-19.22.13:874][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([1] browsable assets)...
+[2018.09.12-19.22.13:874][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2018.09.12-19.22.13:915][529]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_Player_Auto0B72D4BA94EEE3B7831FF1B878C2BF7F2.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/Autosaves/Game/Blueprints/BP_Player_Auto0.uasset'
+[2018.09.12-19.22.13:918][529]LogFileHelpers: Auto-saving content packages took 0.046
+[2018.09.12-19.22.13:978][531]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-19.23.33:869][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2018.09.12-19.23.33:908][915]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_Player0003A0E446A7D0FAFE4D82AD5B02635F.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Player.uasset'
+[2018.09.12-19.23.35:725][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-19.23.35:778][948]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.12-19.23.35:821][948]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.12-19.23.35:842][948]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2018.09.12-19.23.36:056][948]LogPlayLevel: PlayLevel: Blueprint regeneration took 235 ms (1 blueprints)
+[2018.09.12-19.23.36:056][948]PIE: New page: PIE session: TutorialMap (Sep 12, 2018, 11:23:36 AM)
+[2018.09.12-19.23.36:057][948]LogPlayLevel: Creating play world package: /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap
+[2018.09.12-19.23.36:063][948]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006051s)
+[2018.09.12-19.23.36:064][948]LogAIModule: Creating AISystem for world TutorialMap
+[2018.09.12-19.23.36:064][948]LogPlayLevel: PIE: World Init took: (0.001039s)
+[2018.09.12-19.23.36:064][948]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlockBreaker/Maps/TutorialMap.TutorialMap to /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.007330s)
+[2018.09.12-19.23.36:102][948]LogInit: XAudio2 using 'Speakers (2- Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.12-19.23.36:112][948]LogInit: FAudioDevice initialized.
+[2018.09.12-19.23.36:147][948]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.09.12-19.23.36:151][948]LogWorld: Bringing World /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2018.09.12-15.23.36
+[2018.09.12-19.23.36:152][948]LogWorld: Bringing up level for play took: 0.003575
+[2018.09.12-19.23.36:167][948]PIE: Play in editor start time for /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap 0.844
+[2018.09.12-19.23.39:689][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-19.23.40:652][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-19.23.40:734][ 44]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.12-19.23.40:784][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-19.23.40:807][ 45]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2018.09.12-19.23.43:659][ 98]LogSlate: Window 'BP_Player' being destroyed
+[2018.09.12-19.23.43:670][ 98]LogSlate: Window 'BP_Player' being destroyed
+[2018.09.12-19.23.43:769][ 98]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.12-19.23.44:442][112]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-19.23.44:491][113]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.12-19.23.44:513][113]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.12-19.23.44:513][113]PIE: New page: PIE session: TutorialMap (Sep 12, 2018, 11:23:44 AM)
+[2018.09.12-19.23.44:513][113]LogPlayLevel: Creating play world package: /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap
+[2018.09.12-19.23.44:532][113]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019085s)
+[2018.09.12-19.23.44:533][113]LogAIModule: Creating AISystem for world TutorialMap
+[2018.09.12-19.23.44:534][113]LogPlayLevel: PIE: World Init took: (0.001499s)
+[2018.09.12-19.23.44:534][113]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlockBreaker/Maps/TutorialMap.TutorialMap to /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.020951s)
+[2018.09.12-19.23.44:576][113]LogInit: XAudio2 using 'Speakers (2- Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.12-19.23.44:586][113]LogInit: FAudioDevice initialized.
+[2018.09.12-19.23.44:620][113]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.09.12-19.23.44:623][113]LogWorld: Bringing World /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2018.09.12-15.23.44
+[2018.09.12-19.23.44:623][113]LogWorld: Bringing up level for play took: 0.002966
+[2018.09.12-19.23.44:638][113]PIE: Play in editor start time for /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap -0.685
+[2018.09.12-19.23.53:466][340]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-19.23.53:563][340]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.12-19.23.53:595][340]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-19.23.53:646][341]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2018.09.12-19.23.56:653][401]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-19.23.59:466][439]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.12-19.23.59:466][439]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2018.09.12-19.32.28:304][758]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BlockBreaker/Maps/TutorialMap' took 0.037
+[2018.09.12-19.32.28:309][758]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([1] browsable assets)...
+[2018.09.12-19.32.28:309][758]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2018.09.12-19.32.28:351][758]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_Player_Auto1B4F8B1F2405D07A5B91590A3D50CE4EF.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/Autosaves/Game/Blueprints/BP_Player_Auto1.uasset'
+[2018.09.12-19.32.28:354][758]LogFileHelpers: Auto-saving content packages took 0.050
+[2018.09.12-19.42.28:857][176]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BlockBreaker/Maps/TutorialMap' took 0.035
+[2018.09.12-19.42.28:860][176]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([1] browsable assets)...
+[2018.09.12-19.42.28:860][176]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2018.09.12-19.42.28:901][176]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_Player_Auto259543E2B4CB5243B56684880CAB6DF40.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/Autosaves/Game/Blueprints/BP_Player_Auto2.uasset'
+[2018.09.12-19.42.28:904][176]LogFileHelpers: Auto-saving content packages took 0.046
+[2018.09.12-19.43.17:462][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-19.43.18:898][ 37]LogSlate: Window 'BP_Player*' being destroyed
+[2018.09.12-19.43.18:963][ 37]LogSlate: Window 'BP_Player*' being destroyed
+[2018.09.12-19.43.20:464][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-19.43.26:030][127]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.12-19.43.26:030][127]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_BaseGun.BP_BaseGun
+[2018.09.12-19.47.13:155][541]LogMaterial: Display: Missing cached shader map for material M_Circle, compiling. 
+[2018.09.12-19.47.13:224][542]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.12-19.47.13:224][542]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.12-19.47.13:224][542]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.12-19.47.17:470][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_BaseGun" FILE="../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_BaseGun.uasset" SILENT=true
+[2018.09.12-19.47.17:495][613]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_BaseGun1B00BC654366270471EAF69C2B8B692C.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_BaseGun.uasset'
+[2018.09.12-19.47.19:483][646]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-19.47.20:682][665]BlueprintLog: New page: Compile BP_BaseGun
+[2018.09.12-19.47.41:619][ 13]LogSlate: Window 'BP_BaseGun' being destroyed
+[2018.09.12-19.47.41:678][ 13]LogSlate: Window 'BP_BaseGun' being destroyed
+[2018.09.12-19.47.42:618][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-19.47.42:669][ 31]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.12-19.47.42:692][ 31]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.12-19.47.42:692][ 31]PIE: New page: PIE session: TutorialMap (Sep 12, 2018, 11:47:42 AM)
+[2018.09.12-19.47.42:692][ 31]LogPlayLevel: Creating play world package: /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap
+[2018.09.12-19.47.42:711][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018661s)
+[2018.09.12-19.47.42:713][ 31]LogAIModule: Creating AISystem for world TutorialMap
+[2018.09.12-19.47.42:713][ 31]LogPlayLevel: PIE: World Init took: (0.002169s)
+[2018.09.12-19.47.42:713][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlockBreaker/Maps/TutorialMap.TutorialMap to /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.021238s)
+[2018.09.12-19.47.42:795][ 31]LogInit: XAudio2 using 'Speakers (2- Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.12-19.47.42:807][ 31]LogInit: FAudioDevice initialized.
+[2018.09.12-19.47.42:836][ 31]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.09.12-19.47.42:839][ 31]LogWorld: Bringing World /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2018.09.12-15.47.42
+[2018.09.12-19.47.42:840][ 31]LogWorld: Bringing up level for play took: 0.003286
+[2018.09.12-19.47.42:855][ 31]PIE: Play in editor start time for /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap -0.464
+[2018.09.12-19.47.47:628][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-19.47.47:691][150]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.12-19.47.47:727][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-19.47.47:745][151]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2018.09.12-19.47.51:600][225]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.12-19.47.51:616][225]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.12-19.47.51:617][225]PIE: New page: PIE session: TutorialMap (Sep 12, 2018, 11:47:51 AM)
+[2018.09.12-19.47.51:617][225]LogPlayLevel: Creating play world package: /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap
+[2018.09.12-19.47.51:624][225]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007006s)
+[2018.09.12-19.47.51:624][225]LogAIModule: Creating AISystem for world TutorialMap
+[2018.09.12-19.47.51:625][225]LogPlayLevel: PIE: World Init took: (0.000777s)
+[2018.09.12-19.47.51:625][225]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlockBreaker/Maps/TutorialMap.TutorialMap to /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.007999s)
+[2018.09.12-19.47.51:660][225]LogInit: XAudio2 using 'Speakers (2- Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.12-19.47.51:684][225]LogInit: FAudioDevice initialized.
+[2018.09.12-19.47.51:715][225]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.09.12-19.47.51:718][225]LogWorld: Bringing World /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2018.09.12-15.47.51
+[2018.09.12-19.47.51:719][225]LogWorld: Bringing up level for play took: 0.003304
+[2018.09.12-19.47.51:733][225]PIE: Play in editor start time for /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap 0.413
+[2018.09.12-19.48.02:279][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-19.48.02:331][485]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.12-19.48.02:389][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-19.48.02:429][486]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2018.09.12-19.48.13:714][706]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall8)
+[2018.09.12-19.48.16:711][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-19.48.16:761][762]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.12-19.48.16:777][762]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.12-19.48.16:777][762]PIE: New page: PIE session: TutorialMap (Sep 12, 2018, 11:48:16 AM)
+[2018.09.12-19.48.16:777][762]LogPlayLevel: Creating play world package: /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap
+[2018.09.12-19.48.16:790][762]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012788s)
+[2018.09.12-19.48.16:792][762]LogAIModule: Creating AISystem for world TutorialMap
+[2018.09.12-19.48.16:792][762]LogPlayLevel: PIE: World Init took: (0.001935s)
+[2018.09.12-19.48.16:792][762]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlockBreaker/Maps/TutorialMap.TutorialMap to /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.015037s)
+[2018.09.12-19.48.16:867][762]LogInit: XAudio2 using 'Speakers (2- Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.12-19.48.16:876][762]LogInit: FAudioDevice initialized.
+[2018.09.12-19.48.16:907][762]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.09.12-19.48.16:911][762]LogWorld: Bringing World /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2018.09.12-15.48.16
+[2018.09.12-19.48.16:912][762]LogWorld: Bringing up level for play took: 0.004028
+[2018.09.12-19.48.16:927][762]PIE: Play in editor start time for /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap -0.392
+[2018.09.12-19.48.34:847][216]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-19.48.34:910][216]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.12-19.48.34:949][216]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-19.48.34:975][217]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2018.09.12-19.49.03:231][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-19.49.03:328][787]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.12-19.49.03:346][787]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.12-19.49.03:347][787]PIE: New page: PIE session: TutorialMap (Sep 12, 2018, 11:49:03 AM)
+[2018.09.12-19.49.03:347][787]LogPlayLevel: Creating play world package: /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap
+[2018.09.12-19.49.03:360][787]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013381s)
+[2018.09.12-19.49.03:362][787]LogAIModule: Creating AISystem for world TutorialMap
+[2018.09.12-19.49.03:363][787]LogPlayLevel: PIE: World Init took: (0.002202s)
+[2018.09.12-19.49.03:363][787]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlockBreaker/Maps/TutorialMap.TutorialMap to /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.016115s)
+[2018.09.12-19.49.03:430][787]LogInit: XAudio2 using 'Speakers (2- Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.12-19.49.03:440][787]LogInit: FAudioDevice initialized.
+[2018.09.12-19.49.03:474][787]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.09.12-19.49.03:478][787]LogWorld: Bringing World /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2018.09.12-15.49.03
+[2018.09.12-19.49.03:478][787]LogWorld: Bringing up level for play took: 0.003989
+[2018.09.12-19.49.03:493][787]PIE: Play in editor start time for /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap 0.174
+[2018.09.12-19.49.27:851][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-19.49.27:906][409]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.12-19.49.27:941][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-19.49.27:995][410]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2018.09.12-19.50.00:835][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-19.50.03:226][ 81]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.12-19.50.03:227][ 81]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2018.09.12-20.01.02:270][927]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BlockBreaker/Maps/TutorialMap' took 0.040
+[2018.09.12-20.01.02:274][927]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([1] browsable assets)...
+[2018.09.12-20.01.02:274][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2018.09.12-20.01.02:324][927]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_Player_Auto37E50A8914ECC7D78F746A3AB189F21E8.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/Autosaves/Game/Blueprints/BP_Player_Auto3.uasset'
+[2018.09.12-20.01.02:330][927]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Rifle] ([1] browsable assets)...
+[2018.09.12-20.01.02:330][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Rifle]
+[2018.09.12-20.01.02:349][927]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_Rifle_Auto3C3A189104D4FBCAC27D821872945A3A3.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/Autosaves/Game/Blueprints/BP_Rifle_Auto3.uasset'
+[2018.09.12-20.01.02:352][927]LogFileHelpers: Auto-saving content packages took 0.081
+[2018.09.12-20.01.06:871][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-20.01.07:110][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2018.09.12-20.01.07:166][999]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_Player63910C1C4F3D20E70BD92DB85C67D8A0.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Player.uasset'
+[2018.09.12-20.01.08:715][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-20.01.11:613][ 66]BlueprintLog: New page: Compile BP_Player
+[2018.09.12-20.01.16:072][134]LogSlate: Window 'BP_Player' being destroyed
+[2018.09.12-20.01.16:137][134]LogSlate: Window 'BP_Player' being destroyed
+[2018.09.12-20.01.17:700][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-20.01.17:751][162]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.12-20.01.17:777][162]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.12-20.01.17:777][162]PIE: New page: PIE session: TutorialMap (Sep 12, 2018, 12:01:17 PM)
+[2018.09.12-20.01.17:777][162]LogPlayLevel: Creating play world package: /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap
+[2018.09.12-20.01.17:800][162]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022536s)
+[2018.09.12-20.01.17:802][162]LogAIModule: Creating AISystem for world TutorialMap
+[2018.09.12-20.01.17:802][162]LogPlayLevel: PIE: World Init took: (0.002891s)
+[2018.09.12-20.01.17:803][162]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlockBreaker/Maps/TutorialMap.TutorialMap to /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.025875s)
+[2018.09.12-20.01.17:873][162]LogInit: XAudio2 using 'Speakers (2- Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.12-20.01.17:888][162]LogInit: FAudioDevice initialized.
+[2018.09.12-20.01.17:919][162]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.09.12-20.01.17:923][162]LogWorld: Bringing World /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2018.09.12-16.01.17
+[2018.09.12-20.01.17:923][162]LogWorld: Bringing up level for play took: 0.003185
+[2018.09.12-20.01.17:939][162]PIE: Play in editor start time for /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap 0.63
+[2018.09.12-20.01.32:073][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-20.01.32:132][505]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.12-20.01.32:176][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-20.01.32:202][506]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2018.09.12-20.01.33:426][530]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-20.01.34:168][544]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.12-20.01.34:193][544]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.12-20.01.34:193][544]PIE: New page: PIE session: TutorialMap (Sep 12, 2018, 12:01:34 PM)
+[2018.09.12-20.01.34:194][544]LogPlayLevel: Creating play world package: /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap
+[2018.09.12-20.01.34:206][544]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012881s)
+[2018.09.12-20.01.34:207][544]LogAIModule: Creating AISystem for world TutorialMap
+[2018.09.12-20.01.34:207][544]LogPlayLevel: PIE: World Init took: (0.000883s)
+[2018.09.12-20.01.34:207][544]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlockBreaker/Maps/TutorialMap.TutorialMap to /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.013929s)
+[2018.09.12-20.01.34:262][544]LogInit: XAudio2 using 'Speakers (2- Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.12-20.01.34:271][544]LogInit: FAudioDevice initialized.
+[2018.09.12-20.01.34:305][544]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.09.12-20.01.34:309][544]LogWorld: Bringing World /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2018.09.12-16.01.34
+[2018.09.12-20.01.34:309][544]LogWorld: Bringing up level for play took: 0.003629
+[2018.09.12-20.01.34:324][544]PIE: Play in editor start time for /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap 1.015
+[2018.09.12-20.01.48:789][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-20.01.48:897][898]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.12-20.01.48:931][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-20.01.48:957][899]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2018.09.12-20.01.56:371][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-20.01.58:605][ 75]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.12-20.01.58:606][ 75]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2018.09.12-20.06.37:486][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2018.09.12-20.06.37:533][798]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_Player71A3A7CB41FC5DF57AD981ACAE5BFB7D.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Player.uasset'
+[2018.09.12-20.06.38:581][816]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-20.06.40:165][841]BlueprintLog: New page: Compile BP_Player
+[2018.09.12-20.06.42:862][886]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.12-20.06.42:891][886]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.12-20.06.42:892][886]PIE: New page: PIE session: TutorialMap (Sep 12, 2018, 12:06:42 PM)
+[2018.09.12-20.06.42:892][886]LogPlayLevel: Creating play world package: /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap
+[2018.09.12-20.06.42:911][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018488s)
+[2018.09.12-20.06.42:914][886]LogAIModule: Creating AISystem for world TutorialMap
+[2018.09.12-20.06.42:915][886]LogPlayLevel: PIE: World Init took: (0.003707s)
+[2018.09.12-20.06.42:916][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlockBreaker/Maps/TutorialMap.TutorialMap to /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.022928s)
+[2018.09.12-20.06.42:987][886]LogInit: XAudio2 using 'Speakers (2- Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.12-20.06.43:001][886]LogInit: FAudioDevice initialized.
+[2018.09.12-20.06.43:033][886]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.09.12-20.06.43:037][886]LogWorld: Bringing World /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2018.09.12-16.06.43
+[2018.09.12-20.06.43:038][886]LogWorld: Bringing up level for play took: 0.003453
+[2018.09.12-20.06.43:054][886]PIE: Play in editor start time for /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap -0.253
+[2018.09.12-20.06.47:562][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-20.06.47:645][982]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.12-20.06.47:694][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-20.06.47:717][983]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2018.09.12-20.07.17:237][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-20.07.18:311][528]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.12-20.07.18:340][528]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.12-20.07.18:341][528]PIE: New page: PIE session: TutorialMap (Sep 12, 2018, 12:07:18 PM)
+[2018.09.12-20.07.18:341][528]LogPlayLevel: Creating play world package: /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap
+[2018.09.12-20.07.18:362][528]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021019s)
+[2018.09.12-20.07.18:363][528]LogAIModule: Creating AISystem for world TutorialMap
+[2018.09.12-20.07.18:364][528]LogPlayLevel: PIE: World Init took: (0.001906s)
+[2018.09.12-20.07.18:364][528]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlockBreaker/Maps/TutorialMap.TutorialMap to /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.023142s)
+[2018.09.12-20.07.18:432][528]LogInit: XAudio2 using 'Speakers (2- Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.12-20.07.18:443][528]LogInit: FAudioDevice initialized.
+[2018.09.12-20.07.18:477][528]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.09.12-20.07.18:481][528]LogWorld: Bringing World /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2018.09.12-16.07.18
+[2018.09.12-20.07.18:481][528]LogWorld: Bringing up level for play took: 0.003547
+[2018.09.12-20.07.18:496][528]PIE: Play in editor start time for /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap -0.81
+[2018.09.12-20.07.23:399][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-20.07.23:481][633]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.12-20.07.23:529][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-20.07.23:553][634]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2018.09.12-20.07.25:390][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-20.07.26:923][696]LogSlate: Window 'BP_Player' being destroyed
+[2018.09.12-20.07.26:980][696]LogSlate: Window 'BP_Player' being destroyed
+[2018.09.12-20.07.28:936][734]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-20.07.29:036][736]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.12-20.07.29:058][736]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.12-20.07.29:058][736]PIE: New page: PIE session: TutorialMap (Sep 12, 2018, 12:07:29 PM)
+[2018.09.12-20.07.29:059][736]LogPlayLevel: Creating play world package: /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap
+[2018.09.12-20.07.29:078][736]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019111s)
+[2018.09.12-20.07.29:079][736]LogAIModule: Creating AISystem for world TutorialMap
+[2018.09.12-20.07.29:079][736]LogPlayLevel: PIE: World Init took: (0.001231s)
+[2018.09.12-20.07.29:079][736]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlockBreaker/Maps/TutorialMap.TutorialMap to /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.020583s)
+[2018.09.12-20.07.29:147][736]LogInit: XAudio2 using 'Speakers (2- Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.12-20.07.29:157][736]LogInit: FAudioDevice initialized.
+[2018.09.12-20.07.29:187][736]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.09.12-20.07.29:190][736]LogWorld: Bringing World /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2018.09.12-16.07.29
+[2018.09.12-20.07.29:191][736]LogWorld: Bringing up level for play took: 0.003546
+[2018.09.12-20.07.29:207][736]PIE: Play in editor start time for /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap -0.1
+[2018.09.12-20.07.37:148][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-20.07.37:206][938]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.12-20.07.37:239][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-20.07.37:290][939]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2018.09.12-20.07.42:648][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-20.07.45:887][ 96]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.12-20.07.45:887][ 96]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2018.09.12-20.07.56:809][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2018.09.12-20.07.56:854][279]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_Player4EE055124659762227ABC3A188C6CF5D.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Player.uasset'
+[2018.09.12-20.08.09:383][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-20.08.09:557][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2018.09.12-20.08.09:602][499]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_Player5BFD435C4A075C34A90B53B6275B4A87.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Player.uasset'
+[2018.09.12-20.08.11:257][528]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-20.08.13:781][570]BlueprintLog: New page: Compile BP_Player
+[2018.09.12-20.09.00:423][380]BlueprintLog: New page: Compile BP_Player
+[2018.09.12-20.09.06:273][479]LogSlate: Window 'BP_Player' being destroyed
+[2018.09.12-20.09.06:333][479]LogSlate: Window 'BP_Player' being destroyed
+[2018.09.12-20.09.12:238][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-20.09.12:338][595]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.12-20.09.12:355][595]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.12-20.09.12:356][595]PIE: New page: PIE session: TutorialMap (Sep 12, 2018, 12:09:12 PM)
+[2018.09.12-20.09.12:356][595]LogPlayLevel: Creating play world package: /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap
+[2018.09.12-20.09.12:371][595]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014340s)
+[2018.09.12-20.09.12:372][595]LogAIModule: Creating AISystem for world TutorialMap
+[2018.09.12-20.09.12:373][595]LogPlayLevel: PIE: World Init took: (0.002147s)
+[2018.09.12-20.09.12:374][595]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlockBreaker/Maps/TutorialMap.TutorialMap to /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.017273s)
+[2018.09.12-20.09.12:444][595]LogInit: XAudio2 using 'Speakers (2- Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.12-20.09.12:454][595]LogInit: FAudioDevice initialized.
+[2018.09.12-20.09.12:487][595]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.09.12-20.09.12:490][595]LogWorld: Bringing World /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2018.09.12-16.09.12
+[2018.09.12-20.09.12:491][595]LogWorld: Bringing up level for play took: 0.003676
+[2018.09.12-20.09.12:507][595]PIE: Play in editor start time for /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap -0.798
+[2018.09.12-20.09.30:833][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-20.09.30:896][ 57]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.12-20.09.30:933][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-20.09.30:957][ 58]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2018.09.12-20.09.34:364][126]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-20.09.37:075][168]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.12-20.09.37:075][168]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2018.09.12-20.11.37:541][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2018.09.12-20.11.37:587][274]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_Player7FE607CE4F61D950E090CDBB0978D317.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Player.uasset'
+[2018.09.12-20.11.40:530][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-20.11.40:639][328]BlueprintLog: New page: Compile BP_Player
+[2018.09.12-20.11.44:856][401]LogSlate: Window 'BP_Player' being destroyed
+[2018.09.12-20.11.44:912][401]LogSlate: Window 'BP_Player' being destroyed
+[2018.09.12-20.11.46:049][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-20.11.46:096][424]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.12-20.11.46:117][424]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.12-20.11.46:117][424]PIE: New page: PIE session: TutorialMap (Sep 12, 2018, 12:11:46 PM)
+[2018.09.12-20.11.46:117][424]LogPlayLevel: Creating play world package: /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap
+[2018.09.12-20.11.46:133][424]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016337s)
+[2018.09.12-20.11.46:137][424]LogAIModule: Creating AISystem for world TutorialMap
+[2018.09.12-20.11.46:138][424]LogPlayLevel: PIE: World Init took: (0.003858s)
+[2018.09.12-20.11.46:138][424]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlockBreaker/Maps/TutorialMap.TutorialMap to /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.021184s)
+[2018.09.12-20.11.46:204][424]LogInit: XAudio2 using 'Speakers (2- Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.12-20.11.46:216][424]LogInit: FAudioDevice initialized.
+[2018.09.12-20.11.46:245][424]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.09.12-20.11.46:248][424]LogWorld: Bringing World /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2018.09.12-16.11.46
+[2018.09.12-20.11.46:249][424]LogWorld: Bringing up level for play took: 0.003678
+[2018.09.12-20.11.46:265][424]PIE: Play in editor start time for /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap 0.961
+[2018.09.12-20.12.08:072][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-20.12.08:179][989]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.12-20.12.08:213][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-20.12.08:244][990]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2018.09.12-20.12.47:309][757]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-20.12.50:337][798]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.12-20.12.50:338][798]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_BaseGun.BP_BaseGun
+[2018.09.12-20.13.56:016][911]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BlockBreaker/Maps/TutorialMap' took 0.036
+[2018.09.12-20.13.56:020][911]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_BaseGun] ([1] browsable assets)...
+[2018.09.12-20.13.56:020][911]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_BaseGun]
+[2018.09.12-20.13.56:047][911]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_BaseGun_Auto4D3B6C6AA412DEA61C07F2C814A761DB6.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/Autosaves/Game/Blueprints/BP_BaseGun_Auto4.uasset'
+[2018.09.12-20.13.56:052][911]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Rifle] ([1] browsable assets)...
+[2018.09.12-20.13.56:052][911]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Rifle]
+[2018.09.12-20.13.56:073][911]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_Rifle_Auto45CE14EC642AD68ACC0B5A1A9537021FA.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/Autosaves/Game/Blueprints/BP_Rifle_Auto4.uasset'
+[2018.09.12-20.13.56:082][911]LogFileHelpers: Auto-saving content packages took 0.065
+[2018.09.12-20.14.11:635][183]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-20.24.37:090][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_BaseGun" FILE="../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_BaseGun.uasset" SILENT=true
+[2018.09.12-20.24.37:117][308]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_BaseGunE7147707483F27887690E4B248EE9C9D.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_BaseGun.uasset'
+[2018.09.12-20.24.38:414][331]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-20.24.39:729][352]BlueprintLog: New page: Compile BP_BaseGun
+[2018.09.12-20.24.46:395][470]LogSlate: Window 'BP_BaseGun' being destroyed
+[2018.09.12-20.24.46:452][470]LogSlate: Window 'BP_BaseGun' being destroyed
+[2018.09.12-20.25.04:479][824]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-20.25.07:378][870]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.12-20.25.07:378][870]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BlockBreaker/Blueprints/BP_Target.BP_Target
+[2018.09.12-20.26.03:799][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlockBreaker/Blueprints/BP_Target" FILE="../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/BlockBreaker/Blueprints/BP_Target.uasset" SILENT=true
+[2018.09.12-20.26.03:852][809]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_TargetFC557E964EA4D4B96B845EB8246268AA.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/BlockBreaker/Blueprints/BP_Target.uasset'
+[2018.09.12-20.26.04:726][825]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-20.26.05:832][842]BlueprintLog: New page: Compile BP_Target
+[2018.09.12-20.26.08:998][894]LogSlate: Window 'BP_Target' being destroyed
+[2018.09.12-20.26.09:056][894]LogSlate: Window 'BP_Target' being destroyed
+[2018.09.12-20.26.34:056][374]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/TutorialMap_Auto5777927294F837497E92FEE91F6305E5D.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/Autosaves/Game/BlockBreaker/Maps/TutorialMap_Auto5.umap'
+[2018.09.12-20.26.34:062][374]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BlockBreaker/Maps/TutorialMap' took 0.152
+[2018.09.12-20.26.34:063][374]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.152
+[2018.09.12-20.26.34:067][374]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Rifle] ([1] browsable assets)...
+[2018.09.12-20.26.34:067][374]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Rifle]
+[2018.09.12-20.26.34:087][374]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_Rifle_Auto5DB3B2D0D4B08E480D599B0B48F8F747C.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/Autosaves/Game/Blueprints/BP_Rifle_Auto5.uasset'
+[2018.09.12-20.26.34:090][374]LogFileHelpers: Auto-saving content packages took 0.026
+[2018.09.12-20.27.09:956][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-20.27.19:103][157]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.12-20.27.19:104][157]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BlockBreaker/Blueprints/BP_ResetButton.BP_ResetButton
+[2018.09.12-20.27.59:085][799]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_ResetButton6AC6FBD64DA6173B23FFB3B1ACF00A06.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/BlockBreaker/Blueprints/BP_ResetButton.uasset'
+[2018.09.12-20.28.00:060][816]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-20.28.01:185][832]BlueprintLog: New page: Compile BP_ResetButton
+[2018.09.12-20.28.10:635][990]LogSlate: Window 'BP_ResetButton' being destroyed
+[2018.09.12-20.28.10:699][990]LogSlate: Window 'BP_ResetButton' being destroyed
+[2018.09.12-20.28.20:937][175]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-20.28.20:990][176]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.12-20.28.21:015][176]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.12-20.28.21:015][176]PIE: New page: PIE session: TutorialMap (Sep 12, 2018, 12:28:21 PM)
+[2018.09.12-20.28.21:016][176]LogPlayLevel: Creating play world package: /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap
+[2018.09.12-20.28.21:036][176]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019502s)
+[2018.09.12-20.28.21:038][176]LogAIModule: Creating AISystem for world TutorialMap
+[2018.09.12-20.28.21:039][176]LogPlayLevel: PIE: World Init took: (0.003351s)
+[2018.09.12-20.28.21:039][176]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlockBreaker/Maps/TutorialMap.TutorialMap to /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.023513s)
+[2018.09.12-20.28.21:109][176]LogInit: XAudio2 using 'Speakers (2- Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.12-20.28.21:121][176]LogInit: FAudioDevice initialized.
+[2018.09.12-20.28.21:153][176]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.09.12-20.28.21:158][176]LogWorld: Bringing World /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2018.09.12-16.28.21
+[2018.09.12-20.28.21:158][176]LogWorld: Bringing up level for play took: 0.004723
+[2018.09.12-20.28.21:175][176]PIE: Play in editor start time for /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap -0.123
+[2018.09.12-20.29.16:590][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-20.29.16:648][508]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.12-20.29.16:685][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-20.29.16:742][509]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2018.09.12-20.29.37:055][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-20.29.37:964][921]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.12-20.29.37:984][921]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.12-20.29.37:985][921]PIE: New page: PIE session: TutorialMap (Sep 12, 2018, 12:29:37 PM)
+[2018.09.12-20.29.37:985][921]LogPlayLevel: Creating play world package: /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap
+[2018.09.12-20.29.38:003][921]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018383s)
+[2018.09.12-20.29.38:006][921]LogAIModule: Creating AISystem for world TutorialMap
+[2018.09.12-20.29.38:007][921]LogPlayLevel: PIE: World Init took: (0.003452s)
+[2018.09.12-20.29.38:007][921]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BlockBreaker/Maps/TutorialMap.TutorialMap to /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.022209s)
+[2018.09.12-20.29.38:071][921]LogInit: XAudio2 using 'Speakers (2- Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.12-20.29.38:082][921]LogInit: FAudioDevice initialized.
+[2018.09.12-20.29.38:113][921]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.09.12-20.29.38:116][921]LogWorld: Bringing World /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2018.09.12-16.29.38
+[2018.09.12-20.29.38:117][921]LogWorld: Bringing up level for play took: 0.003472
+[2018.09.12-20.29.38:133][921]PIE: Play in editor start time for /Game/BlockBreaker/Maps/UEDPIE_0_TutorialMap 0.834
+[2018.09.12-20.32.22:534][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-20.32.22:583][175]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.12-20.32.22:618][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-20.32.22:671][176]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2018.09.12-20.40.14:747][680]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/TutorialMap_Auto6DC6780F4415C0F473D31F2849BB70328.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/Autosaves/Game/BlockBreaker/Maps/TutorialMap_Auto6.umap'
+[2018.09.12-20.40.14:755][680]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BlockBreaker/Maps/TutorialMap' took 0.138
+[2018.09.12-20.40.14:755][680]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.138
+[2018.09.12-20.56.45:514][807]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-20.57.01:131][116]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-20.57.24:153][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-20.57.24:428][279]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/TutorialMap908692E44BC9068F81EADEAECBA752CC.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/BlockBreaker/Maps/TutorialMap.umap'
+[2018.09.12-20.57.27:390][335]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-20.57.31:049][407]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-20.57.58:688][407]LogSlate: Window 'Save Level As' being destroyed
+[2018.09.12-20.58.02:320][480]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-21.02.51:921][875]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-21.03.03:570][105]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-21.03.03:589][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlockBreaker/Blueprints/GM_Tutorial" FILE="../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/BlockBreaker/Blueprints/GM_Tutorial.uasset" SILENT=true
+[2018.09.12-21.03.03:611][105]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/GM_Tutorial15C7306B4D46D4E76882D180C4B015CE.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/BlockBreaker/Blueprints/GM_Tutorial.uasset'
+[2018.09.12-21.03.03:622][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Rifle" FILE="../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Rifle.uasset" SILENT=true
+[2018.09.12-21.03.03:642][105]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_RifleD0FDC75C4694DEE0C01C188E37DABEED.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Rifle.uasset'
+[2018.09.12-21.03.17:860][388]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-21.03.20:863][447]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-21.07.01:466][652]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-21.07.03:609][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-21.07.03:656][694]LogSlate: Window 'Open Level' being destroyed
+[2018.09.12-21.07.04:866][716]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-21.07.08:771][777]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.12-21.07.08:771][777]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2018.09.12-21.07.53:505][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2018.09.12-21.07.53:545][548]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/BP_PlayerF7ECD2FA47054DFD4DA578ADC5AE97D3.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/Blueprints/BP_Player.uasset'
+[2018.09.12-21.07.57:221][611]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-21.08.10:324][838]LogSlate: Window 'BP_Player' being destroyed
+[2018.09.12-21.08.10:382][838]LogSlate: Window 'BP_Player' being destroyed
+[2018.09.12-21.08.11:278][854]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-21.12.17:801][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-21.12.22:422][182]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-21.12.36:469][182]LogSlate: Window 'Save Level As' being destroyed
+[2018.09.12-21.12.36:610][182]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-21.12.36:634][182]LogAIModule: Creating AISystem for world FirstProject
+[2018.09.12-21.12.36:653][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstProject" FILE="../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/FirstProject.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.12-21.12.36:806][182]LogSavePackage: Moving '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Saved/FirstProjectB8F2DAB440C1E9BCAA91E3818ED3380D.tmp' to '../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/FirstProject.umap'
+[2018.09.12-21.12.36:836][182]LogFileHelpers: Saving map 'FirstProject' took 0.357
+[2018.09.12-21.12.36:837][182]Cmd: MAP LOAD FILE="../../../../../../Users/sgiron/Desktop/BlockBreakerStarter/Content/FirstProject.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.12-21.12.36:845][182]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-21.12.36:853][182]LightingResults: New page: Lighting Build
+[2018.09.12-21.12.36:855][182]LoadErrors: New page: Loading map: FirstProject.umap
+[2018.09.12-21.12.36:858][182]MapCheck: New page: Map Check
+[2018.09.12-21.12.36:858][182]LightingResults: New page: Lighting Build
+[2018.09.12-21.12.37:027][182]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.12-21.12.37:076][182]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.12-21.12.37:176][182]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 99.668ms to complete.
+[2018.09.12-21.12.37:176][182]LogFileHelpers: Loading map 'FirstProject' took 0.340
+[2018.09.12-21.12.40:434][243]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-21.12.47:698][384]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-21.12.52:263][472]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-21.13.03:379][472]LogSlate: Window 'Save Level As' being destroyed
+[2018.09.12-21.13.04:728][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-21.13.53:053][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-21.16.20:226][225]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-21.16.33:721][493]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-21.17.27:927][885]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-21.28.22:881][985]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-21.33.57:046][723]LogSlate: Window 'BlockBreaker - Unreal Editor' being destroyed
+[2018.09.12-21.33.57:048][723]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.12-21.33.57:460][724]Cmd: QUIT_EDITOR
+[2018.09.12-21.33.57:780][724]LogExit: Preparing to exit.
+[2018.09.12-21.33.58:709][724]LogExit: Editor shut down
+[2018.09.12-21.33.58:710][724]LogExit: Transaction tracking system shut down
+[2018.09.12-21.33.59:345][724]LogExit: Object subsystem successfully closed.
+[2018.09.12-21.33.59:372][724]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.09.12-21.33.59:379][724]LogD3D11RHI: Shutdown
+[2018.09.12-21.33.59:379][724]LogD3D11RHI: CleanupD3DDevice
+[2018.09.12-21.33.59:396][724]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.09.12-21.33.59:438][724]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (622)
+[2018.09.12-21.33.59:438][724]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (620)
+[2018.09.12-21.33.59:438][724]LogModuleManager: Shutting down and abandoning module Voice (618)
+[2018.09.12-21.33.59:438][724]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (616)
+[2018.09.12-21.33.59:439][724]LogModuleManager: Shutting down and abandoning module BlueprintGraph (614)
+[2018.09.12-21.33.59:439][724]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (612)
+[2018.09.12-21.33.59:439][724]LogModuleManager: Shutting down and abandoning module SceneOutliner (610)
+[2018.09.12-21.33.59:439][724]LogModuleManager: Shutting down and abandoning module AddContentDialog (608)
+[2018.09.12-21.33.59:442][724]LogModuleManager: Shutting down and abandoning module WidgetCarousel (607)
+[2018.09.12-21.33.59:442][724]LogModuleManager: Shutting down and abandoning module EditorWidgets (604)
+[2018.09.12-21.33.59:442][724]LogModuleManager: Shutting down and abandoning module CollectionManager (602)
+[2018.09.12-21.33.59:442][724]LogModuleManager: Shutting down and abandoning module MeshBuilder (600)
+[2018.09.12-21.33.59:442][724]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.09.12-21.33.59:443][724]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.09.12-21.33.59:443][724]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.09.12-21.33.59:443][724]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.09.12-21.33.59:443][724]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.09.12-21.33.59:443][724]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.09.12-21.33.59:443][724]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.09.12-21.33.59:443][724]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.09.12-21.33.59:443][724]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.09.12-21.33.59:443][724]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.09.12-21.33.59:443][724]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.09.12-21.33.59:443][724]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.09.12-21.33.59:443][724]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.09.12-21.33.59:443][724]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.09.12-21.33.59:443][724]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.09.12-21.33.59:443][724]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.09.12-21.33.59:443][724]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.09.12-21.33.59:443][724]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.09.12-21.33.59:443][724]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.09.12-21.33.59:443][724]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.09.12-21.33.59:443][724]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.09.12-21.33.59:443][724]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.09.12-21.33.59:443][724]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.09.12-21.33.59:443][724]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.09.12-21.33.59:443][724]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.09.12-21.33.59:443][724]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.09.12-21.33.59:444][724]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.09.12-21.33.59:444][724]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.09.12-21.33.59:444][724]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.09.12-21.33.59:444][724]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.09.12-21.33.59:444][724]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.09.12-21.33.59:444][724]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.09.12-21.33.59:444][724]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.09.12-21.33.59:444][724]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.09.12-21.33.59:444][724]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.09.12-21.33.59:444][724]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.09.12-21.33.59:444][724]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.09.12-21.33.59:444][724]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.09.12-21.33.59:444][724]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.09.12-21.33.59:444][724]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.09.12-21.33.59:446][724]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.09.12-21.33.59:446][724]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.09.12-21.33.59:446][724]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.09.12-21.33.59:446][724]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.09.12-21.33.59:446][724]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.09.12-21.33.59:446][724]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.09.12-21.34.00:115][724]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.09.12-21.34.00:115][724]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.09.12-21.34.00:115][724]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.09.12-21.34.00:115][724]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.09.12-21.34.00:115][724]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.09.12-21.34.00:115][724]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.09.12-21.34.00:115][724]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.09.12-21.34.00:115][724]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.09.12-21.34.00:115][724]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.09.12-21.34.00:115][724]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.09.12-21.34.00:115][724]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.09.12-21.34.00:115][724]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.09.12-21.34.00:115][724]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.09.12-21.34.00:115][724]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.09.12-21.34.00:115][724]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.09.12-21.34.00:115][724]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.09.12-21.34.00:116][724]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.09.12-21.34.00:116][724]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.09.12-21.34.00:116][724]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.09.12-21.34.00:116][724]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.09.12-21.34.00:116][724]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.09.12-21.34.00:116][724]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.09.12-21.34.00:181][724]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.09.12-21.34.00:181][724]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.09.12-21.34.00:181][724]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.09.12-21.34.00:181][724]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.09.12-21.34.00:181][724]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.09.12-21.34.00:181][724]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.09.12-21.34.00:181][724]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.09.12-21.34.00:181][724]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.09.12-21.34.00:181][724]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.09.12-21.34.00:181][724]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.09.12-21.34.00:196][724]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.09.12-21.34.00:196][724]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.09.12-21.34.00:200][724]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.09.12-21.34.00:200][724]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.09.12-21.34.00:200][724]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.09.12-21.34.00:200][724]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.09.12-21.34.00:200][724]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.09.12-21.34.00:200][724]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.09.12-21.34.00:206][724]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.09.12-21.34.00:206][724]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.09.12-21.34.00:206][724]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.09.12-21.34.00:206][724]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.09.12-21.34.00:206][724]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.09.12-21.34.00:206][724]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.09.12-21.34.00:206][724]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.09.12-21.34.00:206][724]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.09.12-21.34.00:206][724]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.09.12-21.34.00:206][724]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.09.12-21.34.00:206][724]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.09.12-21.34.00:206][724]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.09.12-21.34.00:206][724]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.09.12-21.34.00:206][724]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.09.12-21.34.00:409][724]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.09.12-21.34.00:409][724]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.09.12-21.34.00:409][724]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.09.12-21.34.00:409][724]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.09.12-21.34.00:410][724]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.09.12-21.34.00:410][724]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.09.12-21.34.00:410][724]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.09.12-21.34.00:410][724]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.09.12-21.34.00:410][724]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.09.12-21.34.00:410][724]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.09.12-21.34.00:410][724]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.09.12-21.34.00:410][724]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.09.12-21.34.00:410][724]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.09.12-21.34.00:410][724]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.09.12-21.34.00:410][724]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.09.12-21.34.00:410][724]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.09.12-21.34.00:410][724]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.09.12-21.34.00:410][724]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.09.12-21.34.00:414][724]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.09.12-21.34.00:414][724]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.09.12-21.34.00:414][724]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.09.12-21.34.00:414][724]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.09.12-21.34.00:414][724]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.09.12-21.34.00:414][724]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.09.12-21.34.00:414][724]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.09.12-21.34.00:414][724]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.09.12-21.34.00:414][724]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.09.12-21.34.00:414][724]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.09.12-21.34.00:414][724]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.09.12-21.34.00:414][724]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.09.12-21.34.00:415][724]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.09.12-21.34.00:415][724]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.09.12-21.34.00:415][724]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.09.12-21.34.00:415][724]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.09.12-21.34.00:415][724]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.09.12-21.34.00:415][724]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.09.12-21.34.00:415][724]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.09.12-21.34.00:415][724]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.09.12-21.34.00:415][724]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.09.12-21.34.00:415][724]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.09.12-21.34.00:415][724]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.09.12-21.34.00:415][724]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.09.12-21.34.00:415][724]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.09.12-21.34.00:415][724]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.09.12-21.34.00:415][724]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.09.12-21.34.00:415][724]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.09.12-21.34.00:415][724]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.09.12-21.34.00:415][724]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.09.12-21.34.00:415][724]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.09.12-21.34.00:416][724]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.09.12-21.34.00:416][724]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.09.12-21.34.00:416][724]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.09.12-21.34.00:416][724]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.09.12-21.34.00:416][724]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.09.12-21.34.00:416][724]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.09.12-21.34.00:416][724]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.09.12-21.34.00:416][724]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.09.12-21.34.00:416][724]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.09.12-21.34.00:416][724]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.09.12-21.34.00:517][724]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.09.12-21.34.00:618][724]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.09.12-21.34.00:618][724]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.09.12-21.34.00:618][724]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.09.12-21.34.00:618][724]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.09.12-21.34.00:618][724]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.09.12-21.34.00:618][724]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.09.12-21.34.00:618][724]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.09.12-21.34.00:620][724]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.09.12-21.34.00:620][724]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.09.12-21.34.00:620][724]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.09.12-21.34.00:620][724]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.09.12-21.34.00:620][724]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.09.12-21.34.00:623][724]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.09.12-21.34.00:623][724]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.09.12-21.34.00:623][724]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.09.12-21.34.00:623][724]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.09.12-21.34.00:623][724]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.09.12-21.34.00:623][724]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.09.12-21.34.00:627][724]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.09.12-21.34.00:633][724]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.09.12-21.34.00:633][724]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.09.12-21.34.00:633][724]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.09.12-21.34.00:633][724]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.09.12-21.34.00:633][724]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.09.12-21.34.00:633][724]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.09.12-21.34.00:633][724]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.09.12-21.34.00:634][724]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.09.12-21.34.00:634][724]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.09.12-21.34.00:634][724]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.09.12-21.34.00:634][724]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.09.12-21.34.00:634][724]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.09.12-21.34.00:634][724]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.09.12-21.34.00:634][724]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.09.12-21.34.00:634][724]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.09.12-21.34.00:634][724]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.09.12-21.34.00:634][724]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.09.12-21.34.00:634][724]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.09.12-21.34.00:634][724]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.09.12-21.34.00:634][724]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.09.12-21.34.00:637][724]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.09.12-21.34.00:637][724]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.09.12-21.34.00:637][724]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.09.12-21.34.00:637][724]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.09.12-21.34.00:637][724]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.09.12-21.34.00:637][724]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.09.12-21.34.00:637][724]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.09.12-21.34.00:637][724]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.09.12-21.34.00:637][724]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.09.12-21.34.00:637][724]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.09.12-21.34.00:637][724]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.09.12-21.34.00:637][724]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.09.12-21.34.00:637][724]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.09.12-21.34.00:637][724]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.09.12-21.34.00:637][724]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.09.12-21.34.00:638][724]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.09.12-21.34.00:638][724]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.09.12-21.34.00:638][724]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.09.12-21.34.00:722][724]LogDerivedDataCache: Shutdown
+[2018.09.12-21.34.00:722][724]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.09.12-21.34.00:723][724]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.09.12-21.34.00:723][724]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.09.12-21.34.00:723][724]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.09.12-21.34.00:723][724]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.09.12-21.34.00:723][724]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.09.12-21.34.00:723][724]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.09.12-21.34.00:723][724]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.09.12-21.34.00:723][724]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.09.12-21.34.00:723][724]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.09.12-21.34.00:723][724]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.09.12-21.34.00:723][724]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.09.12-21.34.00:723][724]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.09.12-21.34.00:723][724]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.09.12-21.34.00:723][724]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.09.12-21.34.00:723][724]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.09.12-21.34.00:723][724]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.09.12-21.34.00:723][724]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.09.12-21.34.00:724][724]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.09.12-21.34.00:724][724]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.09.12-21.34.00:724][724]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.09.12-21.34.00:724][724]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.09.12-21.34.00:724][724]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.09.12-21.34.00:729][724]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.09.12-21.34.00:729][724]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.09.12-21.34.00:734][724]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.09.12-21.34.00:734][724]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.09.12-21.34.00:779][724]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.09.12-21.34.00:779][724]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.09.12-21.34.00:779][724]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.09.12-21.34.00:779][724]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.09.12-21.34.00:779][724]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.09.12-21.34.00:779][724]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.09.12-21.34.00:779][724]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.09.12-21.34.00:779][724]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.09.12-21.34.00:779][724]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.09.12-21.34.00:779][724]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.09.12-21.34.00:779][724]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.09.12-21.34.00:780][724]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.09.12-21.34.00:780][724]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.09.12-21.34.00:780][724]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.09.12-21.34.00:780][724]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.09.12-21.34.00:780][724]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.09.12-21.34.00:780][724]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.09.12-21.34.00:780][724]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.09.12-21.34.00:781][724]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.09.12-21.34.00:781][724]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.09.12-21.34.00:800][724]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.09.12-21.34.00:800][724]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.09.12-21.34.00:800][724]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF2190A80-45F6-FE8F-3329-A2A6DDBBFC9E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=3d594b6d4f74fab56768678e800e21b7%7Cdf658e6adf44475ca8f1d34efcd97c9c%7C465102b6-55a1-4277-921d-c9ac85da2612&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.09.12-21.34.00:809][724]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.09.12-21.34.00:811][724]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.09.12-21.34.00:811][724]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.09.12-21.34.00:811][724]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.09.12-21.34.00:811][724]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.09.12-21.34.00:811][724]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.09.12-21.34.00:811][724]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.09.12-21.34.00:811][724]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.09.12-21.34.00:811][724]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.09.12-21.34.00:811][724]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.09.12-21.34.00:812][724]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.09.12-21.34.00:812][724]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.09.12-21.34.00:812][724]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.09.12-21.34.00:812][724]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.09.12-21.34.00:812][724]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.09.12-21.34.00:812][724]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.09.12-21.34.00:812][724]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.09.12-21.34.00:812][724]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.09.12-21.34.00:812][724]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.09.12-21.34.00:815][724]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.09.12-21.34.00:815][724]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.09.12-21.34.00:815][724]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.09.12-21.34.00:816][724]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.09.12-21.34.00:816][724]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.09.12-21.34.00:816][724]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.09.12-21.34.00:816][724]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.09.12-21.34.00:816][724]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.09.12-21.34.00:816][724]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.09.12-21.34.00:816][724]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.09.12-21.34.00:816][724]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.09.12-21.34.00:821][724]LogExit: Exiting.
+[2018.09.12-21.34.00:854][724]Log file closed, 09/12/18 17:34:00
